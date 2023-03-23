@@ -82,4 +82,29 @@ data <- rbind(df_bcgsc, df_broad, df_tcga)
 
 write.table(data, file = paste(directory, "results/data.csv", sep = "/"), quote=F, sep = ";", row.names=FALSE)
 
-#write.fwf(data,file=paste(directory, "results/data.csv", sep = "/"),sep=";", quote=F, rownames=F, na="NA", append=F)
+# Find Unique Cancer subtypes
+print(unique(data$Cancer.Type.Detailed))
+
+# Germinal Center B-Cell Type
+data_germinal_center_type <- data[data$Cancer.Type.Detailed == "Germinal Center B-Cell Type", ]
+data_germinal_center_type_f_table <- table(data_germinal_center_type$Hugo_Symbol)
+data_germinal_center_type_f_table <- data_germinal_center_type_f_table[order(data_germinal_center_type_f_table, decreasing = TRUE)]
+
+# Activated B-cell Type
+data_activated_b_cell_type <- data[data$Cancer.Type.Detailed == "Activated B-cell Type", ]
+data_activated_b_cell_type_f_table <- table(data_activated_b_cell_type$Hugo_Symbol)
+data_activated_b_cell_type_f_table <- data_activated_b_cell_type_f_table[order(data_activated_b_cell_type_f_table, decreasing = TRUE)]
+
+# Diffuse Large B-Cell Lymphoma, NOS
+data_diffuse_large_b_cell_type <- data[data$Cancer.Type.Detailed == "Diffuse Large B-Cell Lymphoma, NOS", ]
+data_diffuse_large_b_cell_type_f_table <- table(data_diffuse_large_b_cell_type$Hugo_Symbol)
+data_diffuse_large_b_cell_type_f_table <- data_diffuse_large_b_cell_type_f_table[order(data_diffuse_large_b_cell_type_f_table, decreasing = TRUE)]
+
+
+# >10
+data_geeminal_center_type_f_table[data_geeminal_center_type_f_table>10]
+data_activated_b_cell_type_f_table[data_activated_b_cell_type_f_table>10]
+data_diffuse_large_b_cell_type_f_table[data_diffuse_large_b_cell_type_f_table>10]
+
+nrow(data_diffuse_large_b_cell_type)
+
