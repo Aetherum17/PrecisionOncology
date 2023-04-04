@@ -1,0 +1,7 @@
+drug,target
+Ibrutinib,BTK
+Acalabrutinib,BTK
+Zanubrutinib,BTK
+Pirtobrutinib,BTK
+Copanlisib,PI3K
+Duvelisib,PI3K

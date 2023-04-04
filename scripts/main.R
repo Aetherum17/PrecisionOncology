@@ -8,7 +8,39 @@ library(FactoMineR)
 library(factoextra)
 library(ggpubr)
 library(stringr)
-library(rstudioapi) 
+library(rstudioapi)
+library(R.utils)
+library(tools)
+library(readr)
+
+# Functions ####################################################################
+
+# This functions tries to find potential targets in the list of mutations for each sample
+find_applicable_drugs <- function(data_drugs, samples_df){
+  # Create an output data frame
+  patients_df <- data.frame('Sample ID' = "X", 'Diagnosis' = 'Q', 'Target' = "Y", 'Drug' = 'Z')
+  
+  # For each SAMPLE
+  for(i in 1:nrow(samples_df)){
+    # Select the mutations
+    mutations <- strsplit(samples_df[i,3], ', ')[[1]]
+    found_drug = F
+    # FOR each DRUG
+    for(q in 1:nrow(data_drugs)){
+      # Check if a drug is in the mutations list
+      if(data_drugs[q, 2] %in% mutations) {
+        # if it is there - add information about the finding
+        patients_df <- rbind(patients_df, c(samples_df[i,1], samples_df[i,2], data_drugs[q, 2], data_drugs[q, 1]))
+        found_drug = T
+      }
+    }
+    if(found_drug == F){
+      patients_df <- rbind(patients_df, c(samples_df[i,1], samples_df[i,2], "---", "---"))
+    }
+  }
+  patients_df <- patients_df[-1,]
+  return(patients_df)
+}
 
 # Main Body ####################################################################
 
@@ -18,93 +50,93 @@ directory <- str_replace(directory, "/[^/]*$", "")
 directory <- str_replace(directory, "/[^/]*$", "")
 setwd(directory)
 
-# BCGSC Database ###############################################################
+# Output and log files
+outputfile_path <- paste(directory, "results/output.txt", sep = "/")
+logfile_path <- paste(directory, "results/log.log", sep = "/")
+file.create(outputfile_path)
+file.create(logfile_path)
+unlink(paste(directory, "data/temp", sep = "/"), recursive = TRUE)
 
-data_mutations_bcgsc <- read.csv(paste(directory, "data/data_mutations_bcgsc.txt", sep = "/"), sep = "\t")
-# Drop columns with all NA
-data_mutations_bcgsc <- data_mutations_bcgsc[,colSums(is.na(data_mutations_bcgsc))<nrow(data_mutations_bcgsc)]
-data_mutations_bcgsc$Databse <- c("BCGSC")
+# Drugs Data
+data_drugs <- read.csv(paste(directory, "database/data_drugs.txt", sep = "/"), sep = ",")
+data_drugs <- aggregate(target ~ drug, data_drugs, function(x) paste(x, collapse=", "))
 
-data_clinical_sample_bcgsc <- read.csv(paste(directory, "data/data_clinical_sample_bcgsc.txt", sep = "/"), sep = "\t")
-# Drop columns with all NA
-data_clinical_sample_bcgsc <- data_clinical_sample_bcgsc[,colSums(is.na(data_clinical_sample_bcgsc))<nrow(data_clinical_sample_bcgsc)]
-# Remove first 4 rows
-data_clinical_sample_bcgsc <- tail(data_clinical_sample_bcgsc, -4)
-colnames(data_clinical_sample_bcgsc)[2] ="Tumor_Sample_Barcode"
+# Get list of all files in data folder
+data_files_list <- list.files(paste(directory, "data", sep = "/"))
 
-df_bcgsc <- merge(data_mutations_bcgsc, data_clinical_sample_bcgsc,by="Tumor_Sample_Barcode")
-
-# Broad Database ###############################################################
-
-data_mutations_broad <- read.csv(paste(directory, "data/data_mutations_broad.txt", sep = "/"), sep = "\t")
-# Drop columns with all NA
-data_mutations_broad <- data_mutations_broad[,colSums(is.na(data_mutations_broad))<nrow(data_mutations_broad)]
-data_mutations_broad$Databse <- c("Broad")
-
-data_clinical_sample_broad <- read.csv(paste(directory, "data/data_clinical_sample_broad.txt", sep = "/"), sep = "\t")
-# Drop columns with all NA
-data_clinical_sample_broad <- data_clinical_sample_broad[,colSums(is.na(data_clinical_sample_broad))<nrow(data_clinical_sample_broad)]
-# Remove first 4 rows
-data_clinical_sample_broad <- tail(data_clinical_sample_broad, -4)
-colnames(data_clinical_sample_broad)[2] ="Tumor_Sample_Barcode"
-
-df_broad <- merge(data_mutations_broad, data_clinical_sample_broad,by="Tumor_Sample_Barcode")
-
-# TCGA Database ################################################################
-
-data_mutations_tcga <- read.csv(paste(directory, "data/data_mutations_tcga.txt", sep = "/"), sep = "\t")
-# Drop columns with all NA
-data_mutations_tcga <- data_mutations_tcga[,colSums(is.na(data_mutations_tcga))<nrow(data_mutations_tcga)]
-data_mutations_tcga$Databse <- c("TCGA")
-
-data_clinical_sample_tcga <- read.csv(paste(directory, "data/data_clinical_sample_tcga.txt", sep = "/"), sep = "\t")
-# Drop columns with all NA
-data_clinical_sample_tcga <- data_clinical_sample_tcga[,colSums(is.na(data_clinical_sample_tcga))<nrow(data_clinical_sample_tcga)]
-# Remove first 4 rows
-data_clinical_sample_tcga <- tail(data_clinical_sample_tcga, -4)
-colnames(data_clinical_sample_tcga)[2] ="Tumor_Sample_Barcode"
-
-df_tcga <- merge(data_mutations_tcga, data_clinical_sample_tcga,by="Tumor_Sample_Barcode")
+# For each file in data folder
+for (file_num in 1:length(data_files_list)){
+  # load current data file
+  data_file <- paste(directory, "data", data_files_list[file_num], sep = "/")
+  # Get directory of the data file
+  data_file_extension = file_ext(data_file)
+  # If it is an archive - it should be unpacked
+  if(data_file_extension == "gz")
+  {
+    tar_file <- gunzip(data_file)
+  } else{
+    tar_file <- data_file
+  }
+  # Get the name of tar file folder
+  tar_file_folder <- basename(file_path_sans_ext(tar_file))
+  # The directory where the tar filw will be extracted
+  ex_dir = paste(directory, "data/temp", data_files_list[file_num], sep = "/")
+  # Extract the tar file
+  untar(tarfile = tar_file, exdir = ex_dir)
+  # Directory of the folder containing mutations file
+  tar_directory <- paste(directory, "data/temp", basename(tar_file), tar_file_folder, sep = "/")
+  # Check if the Mutations file Exist
+  if(file.exists(paste(tar_directory, "data_mutations.txt", sep = "/")) == T){
+    write(paste("# OK: ", tar_file_folder, " - Data Mutations Exists", sep = ""), logfile_path, append=TRUE)
+    # Read the data_muations file
+    # data_df <- read.table(paste(tar_directory, "data_mutations.txt", sep = "/"), header = TRUE, stringsAsFactors = FALSE, sep = "\t")
+    data_df <- read_tsv(paste(tar_directory, "data_mutations.txt", sep = "/"))
+    if("Hugo_Symbol" %in% colnames(data_df) & "Tumor_Sample_Barcode" %in% colnames(data_df)){
+      write("# OK: Hugo_Symbol and Tumor_Sample_Barcode Columns exist.", logfile_path, append=TRUE)
+      # Select only the columns we need
+      data_df <- data_df[,c("Hugo_Symbol", "Tumor_Sample_Barcode")] 
+      # Check if the Clinical Sample file Exists
+      if(file.exists(paste(tar_directory, "data_clinical_sample.txt", sep = "/")) == T){
+        write(paste("# OK: ", tar_file_folder, " - Clinical Sample File Exists", sep = ""), logfile_path, append=TRUE)
+        # Read Clinical Sample file
+        data_clinical_df <- read.table(paste(tar_directory, "data_clinical_sample.txt", sep = "/"), header = TRUE, stringsAsFactors = FALSE, sep = "\t")
+        if("SAMPLE_ID" %in% colnames(data_clinical_df) & "CANCER_TYPE_DETAILED" %in% colnames(data_clinical_df)){
+          write("# OK: SAMPLE_ID and CANCER_TYPE_DETAILED Columns exist.", logfile_path, append=TRUE)
+          # Select only the columns we need
+          data_clinical_df <- data_clinical_df[,c("SAMPLE_ID", "CANCER_TYPE_DETAILED")]
+          # Rename the Columns
+          colnames(data_clinical_df) <- c("Tumor_Sample_Barcode", "Cancer_Type_Detailed")
+          # Merge Data of Mutations with Clinical Samples
+          data_merged_df <- merge(data_df, data_clinical_df, by="Tumor_Sample_Barcode")
+          # Connect each sample with all mutations discovered
+          samples_df <- aggregate(Hugo_Symbol ~ Tumor_Sample_Barcode + Cancer_Type_Detailed, data_merged_df, function(x) paste(x, collapse=", "))
+          # Rename the Columns
+          colnames(samples_df) <- c("Sample_ID", "Cancer Type", "Mutated_Genes")
+          ### Find Applicable Drugs
+          output_df <- find_applicable_drugs(data_drugs, samples_df)
+          print(output_df)
+        }
+        else{
+          write("# ERROR: Some of the required Columns DO NOT Exist.", logfile_path, append=TRUE)
+        }
+      } else{
+        write(paste("# ERROR", tar_file_folder, " - Clinical Sample File is MISSING", sep = ""), logfile_path, append=TRUE)
+      }
+    } else{
+      write("# ERROR: Some of the required Columns DO NOT Exist.", logfile_path, append=TRUE)
+    }
+  } else {
+    write(paste("# ERROR", tar_file_folder, " - Data Mutations File is MISSING", sep = ""), logfile_path, append=TRUE)
+  }
+  unlink(paste(directory, "data/temp", sep = "/"), recursive = TRUE)
+}
 
 ################################################################################
 
-df_broad_colnames <- colnames(df_broad)
-df_bcgsc_colnames <- colnames(df_bcgsc)
-df_tcga_colnames <- colnames(df_tcga)
 
-common_column_names <- Reduce(intersect, list(df_broad_colnames, df_bcgsc_colnames, df_tcga_colnames))
-
-df_bcgsc <- subset(df_bcgsc, select = common_column_names)
-df_broad <- subset(df_broad, select = common_column_names)
-df_tcga <- subset(df_tcga, select = common_column_names)
-
-data <- rbind(df_bcgsc, df_broad, df_tcga)
-
-write.table(data, file = paste(directory, "results/data.csv", sep = "/"), quote=F, sep = ";", row.names=FALSE)
-
-# Find Unique Cancer subtypes
-print(unique(data$Cancer.Type.Detailed))
-
-# Germinal Center B-Cell Type
-data_germinal_center_type <- data[data$Cancer.Type.Detailed == "Germinal Center B-Cell Type", ]
-data_germinal_center_type_f_table <- table(data_germinal_center_type$Hugo_Symbol)
-data_germinal_center_type_f_table <- data_germinal_center_type_f_table[order(data_germinal_center_type_f_table, decreasing = TRUE)]
-
-# Activated B-cell Type
-data_activated_b_cell_type <- data[data$Cancer.Type.Detailed == "Activated B-cell Type", ]
-data_activated_b_cell_type_f_table <- table(data_activated_b_cell_type$Hugo_Symbol)
-data_activated_b_cell_type_f_table <- data_activated_b_cell_type_f_table[order(data_activated_b_cell_type_f_table, decreasing = TRUE)]
-
-# Diffuse Large B-Cell Lymphoma, NOS
-data_diffuse_large_b_cell_type <- data[data$Cancer.Type.Detailed == "Diffuse Large B-Cell Lymphoma, NOS", ]
-data_diffuse_large_b_cell_type_f_table <- table(data_diffuse_large_b_cell_type$Hugo_Symbol)
-data_diffuse_large_b_cell_type_f_table <- data_diffuse_large_b_cell_type_f_table[order(data_diffuse_large_b_cell_type_f_table, decreasing = TRUE)]
+# write(paste("##### Mutations of Diffuse Large B Cell Lymphoma ##### "), output_file_path, append=TRUE)
+# write(paste("### Number of Samples:", length(unique(data_diffuse_large_b_cell_type$Tumor_Sample_Barcode)), sep = " "), output_file_path, append=TRUE)
+# write.fwf(cancer_type_df, file=output_file_path, sep=" ", quote=F, rownames=F, colnames = T, na="NA", append=TRUE)
 
 
-# >10
-data_geeminal_center_type_f_table[data_geeminal_center_type_f_table>10]
-data_activated_b_cell_type_f_table[data_activated_b_cell_type_f_table>10]
-data_diffuse_large_b_cell_type_f_table[data_diffuse_large_b_cell_type_f_table>10]
-
-nrow(data_diffuse_large_b_cell_type)
 
