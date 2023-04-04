@@ -1,0 +1,2721 @@
+Sample_ID;Diagnosis;Target;Drug;Found_Drug
+DFCI_DLBCL_Goe01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DFCI_DLBCL_Goe05;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DFCI_DLBCL_Goe16;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1065;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1098;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1395;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls148;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1546;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1583;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1620;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1668;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1683;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1757;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1899;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1921;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2089;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2154;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2245;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2258;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL-Ls2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL-Ls2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL-Ls2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL-Ls2305;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2328;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2357;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2367;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2590;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2596;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls297;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2978;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3200;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3204;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3245;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS3271;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3309;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3387;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3499;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3615;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3749;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL-Ls378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL-Ls378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL-Ls378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL-Ls3808;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3809;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3820;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3866;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4054;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls4085;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls420;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4323;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4394;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4592;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4593;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4616;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4618;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4619;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls762;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls843;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls951;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-MAYO_DLBCL_234;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-MAYO_DLBCL_5613;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-MAYO_DLBCL_7359;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-8693-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A4BB-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A4XK-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A6HN-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A6HO-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A7DS-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A7Q1-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A82F-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A86F-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-8041-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-8042-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-8043-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-8046-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-8047-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-8061-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-A7CQ-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-A7CR-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-A7CW-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-A7CX-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GR-A4D4-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GR-A4D5-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GR-A4D6-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GR-A4D9-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TQ-01;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+TCGA-GS-A9TQ-01;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+TCGA-GS-A9TQ-01;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+TCGA-GS-A9TQ-01;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+TCGA-GS-A9TT-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TU-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TV-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TW-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TX-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TY-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TZ-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9U3-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9U4-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-RQ-A68N-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-RQ-AAAT-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS1065;Activated B-cell Type;---;---;FALSE
+DLBCL-LS1304;Activated B-cell Type;---;---;FALSE
+DLBCL-LS1546;Activated B-cell Type;---;---;FALSE
+DLBCL-LS1583;Activated B-cell Type;---;---;FALSE
+DLBCL-LS1683;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2089;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2154;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2208;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2258;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2590;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2596;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2848;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2978;Activated B-cell Type;---;---;FALSE
+DLBCL-LS3085;Activated B-cell Type;---;---;FALSE
+DLBCL-LS3200;Activated B-cell Type;---;---;FALSE
+DLBCL-LS3219;Activated B-cell Type;---;---;FALSE
+DLBCL-LS3271;Activated B-cell Type;---;---;FALSE
+DLBCL-LS3809;Activated B-cell Type;---;---;FALSE
+DLBCL-LS4054;Activated B-cell Type;---;---;FALSE
+DLBCL-LS4085;Activated B-cell Type;---;---;FALSE
+DLBCL-LS4323;Activated B-cell Type;---;---;FALSE
+DLBCL-LS88;Activated B-cell Type;---;---;FALSE
+DLBCL-MAYO_DLBCL_5613;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_1032;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_1060;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_1106;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_1150;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_1169;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_1190;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_1219;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_134;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_173;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_174;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_215;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_266;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_274;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_288;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_417;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_467;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_473;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_506;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_597;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_704;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_712;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_720;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_763;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_773;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_910;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_977;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_99;Activated B-cell Type;---;---;FALSE
+DLBCL-DFCI_DLBCL_Goe05;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-DFCI_DLBCL_Goe08;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-DFCI_DLBCL_Goe16;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-DFCI_DLBCL_Goe17;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS1098;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS1395;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS148;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS1668;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS1757;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL-LS2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL-LS2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL-LS2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL-LS2305;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS2325;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS2357;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS2595;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS3615;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL-LS378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL-LS378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL-LS378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL-LS3808;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4222;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4394;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4593;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS762;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS843;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-MAYO_DLBCL_7359;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_102;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_107;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_1199;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_1235;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_1237;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_1263;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_151;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_181;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_224;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_314;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_325;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_336;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_401;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_449;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_543;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_839;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_950;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS146;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS155;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS1620;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS1899;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS1921;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS2245;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS2328;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS2367;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS2599;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS297;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3204;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3245;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3309;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3387;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3499;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3749;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3820;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3866;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS4592;Germinal Center B-Cell Type;BTK;Acalabrutinib;TRUE
+DLBCL-LS4592;Germinal Center B-Cell Type;BTK;Ibrutinib;TRUE
+DLBCL-LS4592;Germinal Center B-Cell Type;BTK;Pirtobrutinib;TRUE
+DLBCL-LS4592;Germinal Center B-Cell Type;BTK;Zanubrutinib;TRUE
+DLBCL-LS4616;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS4618;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS4619;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS951;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-MAYO_DLBCL_234;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-MAYO_DLBCL_3653;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_1013;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_1081;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_126;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_1269;Germinal Center B-Cell Type;BTK;Acalabrutinib;TRUE
+DLBCL-RICOVER_1269;Germinal Center B-Cell Type;BTK;Ibrutinib;TRUE
+DLBCL-RICOVER_1269;Germinal Center B-Cell Type;BTK;Pirtobrutinib;TRUE
+DLBCL-RICOVER_1269;Germinal Center B-Cell Type;BTK;Zanubrutinib;TRUE
+DLBCL-RICOVER_148;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_197;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_253;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_267;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_269;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_299;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_320;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_338;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_361;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_384;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_496;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_522;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_533;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_623;Germinal Center B-Cell Type;BTK;Acalabrutinib;TRUE
+DLBCL-RICOVER_623;Germinal Center B-Cell Type;BTK;Ibrutinib;TRUE
+DLBCL-RICOVER_623;Germinal Center B-Cell Type;BTK;Pirtobrutinib;TRUE
+DLBCL-RICOVER_623;Germinal Center B-Cell Type;BTK;Zanubrutinib;TRUE
+DLBCL-RICOVER_685;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_711;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL_DUKE_1008;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_1016;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2043;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2044;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2045;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2046;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2047;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2048;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2057;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2060;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2072;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2073;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2074;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2075;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2076;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2077;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2078;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2079;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2080;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2081;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2083;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2084;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2085;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2087;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2088;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2089;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2091;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2092;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2093;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2095;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2097;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2100;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2101;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2102;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2103;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2106;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2107;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2109;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2110;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2111;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2112;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2113;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2114;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2115;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2120;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2121;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2122;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2124;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2125;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2126;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2127;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2128;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2130;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2133;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2134;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2135;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2136;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2137;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2138;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2140;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2141;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2142;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2143;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2144;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2145;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2146;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2147;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2148;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2149;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2150;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2151;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2152;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2153;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2154;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2155;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2156;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2157;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2158;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2159;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2160;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2161;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2162;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2163;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2164;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2165;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2166;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2190;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2191;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2192;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2193;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2194;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2195;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2196;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2198;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2199;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2200;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2201;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2203;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2204;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2205;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2206;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2207;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2208;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2209;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2210;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2211;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2212;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2213;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2215;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2216;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2217;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2219;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2220;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2221;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2222;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2224;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2225;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2226;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2228;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2229;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2230;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2231;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2232;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2233;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2234;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2235;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2236;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2237;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2238;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2239;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2240;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2241;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2242;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2243;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2244;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2246;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2247;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2248;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2249;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2250;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2251;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2253;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2254;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2254;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2254;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2254;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2255;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2256;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2259;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2259;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2259;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2259;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2260;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2261;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2262;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2263;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2269;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2270;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2271;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2272;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2273;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2274;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2274;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2274;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2274;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2278;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2279;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2281;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2286;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2290;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2291;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2293;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2297;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2298;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2300;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2302;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2303;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2306;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2307;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2448;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2449;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2450;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2451;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2453;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2455;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2459;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2461;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2462;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2463;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2464;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2466;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2467;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2467;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2467;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2467;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2468;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2469;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2470;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2471;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2472;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2473;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2474;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2475;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2476;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2477;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2478;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2479;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2480;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2481;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2482;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2483;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2485;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2487;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2488;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2522;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2523;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2524;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2525;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2528;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2529;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2530;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2532;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2533;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2534;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2538;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2539;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2540;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2541;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2541;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2541;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2541;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2542;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2542;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2542;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2542;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2543;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2544;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2545;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2547;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2548;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2549;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2550;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2551;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2552;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2553;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2554;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2555;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2556;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2559;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2560;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2561;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2562;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2565;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2567;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2570;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2571;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2573;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2575;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2576;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2577;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2578;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2580;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2581;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2582;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2585;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2588;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2591;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2593;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2594;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2596;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2597;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2599;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2600;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2602;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2603;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2604;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2605;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2606;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2608;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2609;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2611;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2612;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2613;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2614;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2616;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2617;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2619;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2620;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2621;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2622;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2624;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2626;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2628;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2629;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2630;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2632;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2634;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2635;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2636;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2636;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2636;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2636;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2637;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2639;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2640;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2642;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2643;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2644;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2644;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2644;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2644;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2646;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2647;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2649;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2650;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2651;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2652;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2654;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2655;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2656;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2657;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2658;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2659;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2660;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2662;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2663;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2664;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2666;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2667;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2669;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2671;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2673;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2675;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2676;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2677;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2678;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2680;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2680;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2680;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2680;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2681;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2684;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2685;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2687;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2688;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2689;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2690;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2691;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2692;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2696;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2697;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2698;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2699;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2700;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2704;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2705;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2706;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2707;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2709;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2713;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2714;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2715;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2716;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2718;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2719;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2720;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2725;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2727;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2728;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2758;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2761;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2762;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2763;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2764;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2764;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2764;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2764;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2765;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2766;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2766;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2766;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2766;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2767;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2768;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2769;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2770;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2771;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2772;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2773;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2775;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2776;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2777;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2778;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2779;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2781;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2783;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2784;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2785;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2786;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2788;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2789;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2790;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2791;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2792;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2793;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2794;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2805;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2806;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2808;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2809;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2810;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2812;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2813;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2814;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2815;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2816;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2818;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2819;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2820;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2821;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2823;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2824;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2826;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2827;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2828;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2829;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2830;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2831;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2832;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2833;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2834;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2836;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2837;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2838;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2839;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2840;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2841;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2843;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2844;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2865;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2867;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2871;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2872;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2873;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2874;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2877;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2878;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2879;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2881;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2882;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2884;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2886;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2887;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2888;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2889;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2891;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2892;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2894;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2895;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2897;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2898;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2899;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2900;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2901;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2902;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2903;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2903;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2903;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2903;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2904;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2905;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2908;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2908;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2908;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2908;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2909;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2910;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2912;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2915;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2917;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2918;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2919;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2921;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2922;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2923;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2925;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2928;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2931;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2933;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2934;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2935;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2936;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2939;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2944;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2945;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2946;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2946;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2946;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2946;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2947;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2948;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2949;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2950;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2951;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2951;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2951;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2951;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2952;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2953;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2955;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2956;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2957;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2995;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2996;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2998;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2999;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3382;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3384;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3385;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3386;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3387;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3388;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3389;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3390;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3394;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3396;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3398;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3399;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3401;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3403;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3404;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3405;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3406;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3407;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3408;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3409;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3411;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3411;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3411;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3411;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3412;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3412;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3412;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3412;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3413;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3417;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3418;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3419;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3422;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3423;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3424;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3429;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3430;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3431;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3432;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3433;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3434;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3435;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3438;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3439;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3440;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3441;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3444;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3446;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3447;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3447;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3447;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3447;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3448;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3449;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3450;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3451;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3453;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3454;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3455;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3456;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3457;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3458;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3459;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3460;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3461;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3462;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3463;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3464;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3465;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3467;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3468;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3470;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3471;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3472;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3473;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3474;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3475;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3476;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3478;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3479;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3480;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3481;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3482;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3483;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3484;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3485;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3486;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3487;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3488;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3489;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3490;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3493;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3493;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3493;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3493;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3495;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3496;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3497;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3498;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3500;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3502;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3503;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3504;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3504;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3504;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3504;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3505;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3506;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3507;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3508;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3510;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3511;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3512;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3513;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3514;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3515;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3517;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3519;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3520;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3521;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3522;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3523;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3525;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3527;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3528;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3529;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3531;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3532;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3535;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3536;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3537;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3538;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3539;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3540;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3542;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3545;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3546;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3547;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3548;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3549;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3551;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3552;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3555;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3556;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3557;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3558;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3559;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3560;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3561;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3562;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3563;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3565;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3566;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3580;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3582;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3584;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3585;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3586;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3587;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3589;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3590;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3592;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3593;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3594;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3595;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3596;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3597;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3600;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3601;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3602;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3603;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3604;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3606;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3607;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3608;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3609;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3610;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3611;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3612;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3613;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3614;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3615;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3616;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3617;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3618;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3618;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3618;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3618;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3620;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3622;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3623;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3624;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3625;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3627;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3628;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3629;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3630;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3631;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3632;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3634;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3635;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3636;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3637;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3638;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3639;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3640;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3642;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3643;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3644;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3645;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3646;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3647;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3648;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3649;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3651;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3652;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3653;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3654;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3655;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3656;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3657;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3659;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3660;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3661;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3662;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3663;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3664;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3665;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3666;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3667;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3668;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3669;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3671;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3672;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3673;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3674;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3675;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3677;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3679;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3680;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3681;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3682;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3683;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3684;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3685;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3686;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3687;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3688;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3689;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3691;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3692;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3692;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3692;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3692;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3693;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3694;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3696;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3697;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3698;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3699;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3700;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3701;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3703;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3704;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3706;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3707;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3708;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3709;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3709;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3709;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3709;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3711;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3712;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3713;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3715;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3716;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3717;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3718;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3719;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3721;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3722;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3724;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3725;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3726;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3727;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3728;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3728;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3728;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3728;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3729;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3730;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3731;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3732;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3733;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3734;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3735;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3736;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3737;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3739;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3740;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3741;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3742;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3743;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3745;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3746;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3747;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3748;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3749;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3750;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3751;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3753;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3754;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3755;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3756;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3757;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3758;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3759;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3760;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3761;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3762;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3763;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3764;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3765;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3766;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3767;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3770;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3771;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3775;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3776;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3777;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3778;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3779;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3780;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3781;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3782;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3783;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3784;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3785;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3786;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3787;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3810;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3811;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3812;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3813;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3814;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3815;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3816;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3817;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3819;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3820;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3821;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3822;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3823;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3824;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3825;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3826;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3827;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3828;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3829;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3830;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3831;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3832;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3833;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3834;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3835;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3836;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3837;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3838;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3839;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3840;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3842;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3843;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3845;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3846;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3847;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3848;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3849;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3851;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3852;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3854;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3856;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3857;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3859;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3861;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3865;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3867;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3871;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3872;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3873;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3875;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3876;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3879;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3880;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3881;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3882;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3883;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3885;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3885;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3885;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3885;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3886;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3887;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3888;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3889;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3891;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3892;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3893;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3894;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3895;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3896;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3896;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3896;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3896;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3898;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3899;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3900;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3901;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3902;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3903;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3904;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3905;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3906;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3907;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3908;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3909;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3909;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3909;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3909;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3911;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3912;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3913;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3914;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3915;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3916;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3917;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3918;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3919;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3920;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3921;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3922;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3923;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3924;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3925;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3926;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3927;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3928;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3929;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3930;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3931;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3932;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3933;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3935;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3936;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3937;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3938;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3939;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3940;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3941;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3942;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3943;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3944;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3945;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3946;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3948;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3949;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3950;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3951;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3952;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3953;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3954;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3955;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3956;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3957;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3958;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3959;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3960;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3961;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3963;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3964;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3965;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3966;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3967;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3968;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3969;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3971;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3972;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3973;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3974;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3975;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3976;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3977;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3978;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3979;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3980;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3981;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3982;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3983;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3984;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3985;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3986;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3987;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3988;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3989;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3990;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3991;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3992;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3993;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3994;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3995;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3996;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3997;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3998;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3999;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_648;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_658;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_683;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_684;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_689;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_690;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_695;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_702;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_704;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_704;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_704;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_704;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_705;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_707;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_759;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_787;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_790;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_793;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_799;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_800;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_813;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_816;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_823;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_829;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_830;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_831;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_832;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+MD903;Activated B-cell Type;---;---;FALSE
+NU-DUL-1;Activated B-cell Type;---;---;FALSE
+OCI-Ly3;Activated B-cell Type;---;---;FALSE
+RG023;Activated B-cell Type;---;---;FALSE
+RG026;Activated B-cell Type;---;---;FALSE
+RG027;Activated B-cell Type;---;---;FALSE
+RG028;Activated B-cell Type;---;---;FALSE
+RG036;Activated B-cell Type;---;---;FALSE
+RG038;Activated B-cell Type;---;---;FALSE
+RG049;Activated B-cell Type;---;---;FALSE
+RG061;Activated B-cell Type;---;---;FALSE
+RG065;Activated B-cell Type;---;---;FALSE
+RG074;Activated B-cell Type;---;---;FALSE
+RG081;Activated B-cell Type;---;---;FALSE
+RG086;Activated B-cell Type;---;---;FALSE
+RG138;Activated B-cell Type;---;---;FALSE
+SU-DHL-9;Activated B-cell Type;---;---;FALSE
+RG024;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+RG051;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+RG067;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+RG115;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DB;Germinal Center B-Cell Type;---;---;FALSE
+DOHH-2;Germinal Center B-Cell Type;---;---;FALSE
+Karpas422;Germinal Center B-Cell Type;---;---;FALSE
+NU-DHL-1;Germinal Center B-Cell Type;---;---;FALSE
+OCI-Ly1;Germinal Center B-Cell Type;---;---;FALSE
+OCI-Ly19;Germinal Center B-Cell Type;---;---;FALSE
+OCI-Ly7;Germinal Center B-Cell Type;---;---;FALSE
+RG003;Germinal Center B-Cell Type;---;---;FALSE
+RG008;Germinal Center B-Cell Type;---;---;FALSE
+RG013;Germinal Center B-Cell Type;---;---;FALSE
+RG014;Germinal Center B-Cell Type;---;---;FALSE
+RG034;Germinal Center B-Cell Type;---;---;FALSE
+RG040;Germinal Center B-Cell Type;---;---;FALSE
+RG043;Germinal Center B-Cell Type;---;---;FALSE
+RG054;Germinal Center B-Cell Type;---;---;FALSE
+RG055;Germinal Center B-Cell Type;---;---;FALSE
+RG064;Germinal Center B-Cell Type;---;---;FALSE
+RG068;Germinal Center B-Cell Type;---;---;FALSE
+RG075;Germinal Center B-Cell Type;---;---;FALSE
+RG077;Germinal Center B-Cell Type;---;---;FALSE
+RG082;Germinal Center B-Cell Type;---;---;FALSE
+RG083;Germinal Center B-Cell Type;---;---;FALSE
+RG111;Germinal Center B-Cell Type;---;---;FALSE
+RG116;Germinal Center B-Cell Type;---;---;FALSE
+RG130;Germinal Center B-Cell Type;---;---;FALSE
+RG132;Germinal Center B-Cell Type;---;---;FALSE
+RG135;Germinal Center B-Cell Type;---;---;FALSE
+RG136;Germinal Center B-Cell Type;---;---;FALSE
+RG142;Germinal Center B-Cell Type;---;---;FALSE
+SU-DHL-6;Germinal Center B-Cell Type;---;---;FALSE
+WSU-DLCL2;Germinal Center B-Cell Type;---;---;FALSE
+DFCI_DLBCL_Goe01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DFCI_DLBCL_Goe05;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DFCI_DLBCL_Goe16;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1065;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1098;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1395;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls148;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1546;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1583;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1620;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1668;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1683;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1757;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1899;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1921;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2089;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2154;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2245;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2258;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL-Ls2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL-Ls2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL-Ls2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL-Ls2305;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2328;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2357;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2367;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2590;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2596;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls297;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2978;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3200;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3204;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3245;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS3271;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3309;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3387;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3499;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3615;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3749;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL-Ls378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL-Ls378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL-Ls378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL-Ls3808;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3809;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3820;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3866;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4054;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls4085;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls420;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4323;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4394;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4592;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4593;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4616;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4618;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4619;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls762;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls843;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls951;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-MAYO_DLBCL_234;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-MAYO_DLBCL_5613;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-MAYO_DLBCL_7359;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-8693-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A4BB-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A4XK-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A6HN-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A6HO-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A7DS-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A7Q1-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A82F-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FA-A86F-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-8041-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-8042-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-8043-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-8046-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-8047-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-8061-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-A7CQ-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-A7CR-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-A7CW-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-FF-A7CX-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GR-A4D4-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GR-A4D5-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GR-A4D6-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GR-A4D9-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TQ-01;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+TCGA-GS-A9TQ-01;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+TCGA-GS-A9TQ-01;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+TCGA-GS-A9TQ-01;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+TCGA-GS-A9TT-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TU-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TV-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TW-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TX-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TY-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TZ-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9U3-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9U4-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-RQ-A68N-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-RQ-AAAT-01;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS1065;Activated B-cell Type;---;---;FALSE
+DLBCL-LS1304;Activated B-cell Type;---;---;FALSE
+DLBCL-LS1546;Activated B-cell Type;---;---;FALSE
+DLBCL-LS1583;Activated B-cell Type;---;---;FALSE
+DLBCL-LS1683;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2089;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2154;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2208;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2258;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2590;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2596;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2848;Activated B-cell Type;---;---;FALSE
+DLBCL-LS2978;Activated B-cell Type;---;---;FALSE
+DLBCL-LS3085;Activated B-cell Type;---;---;FALSE
+DLBCL-LS3200;Activated B-cell Type;---;---;FALSE
+DLBCL-LS3219;Activated B-cell Type;---;---;FALSE
+DLBCL-LS3271;Activated B-cell Type;---;---;FALSE
+DLBCL-LS3809;Activated B-cell Type;---;---;FALSE
+DLBCL-LS4054;Activated B-cell Type;---;---;FALSE
+DLBCL-LS4085;Activated B-cell Type;---;---;FALSE
+DLBCL-LS4323;Activated B-cell Type;---;---;FALSE
+DLBCL-LS88;Activated B-cell Type;---;---;FALSE
+DLBCL-MAYO_DLBCL_5613;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_1032;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_1060;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_1106;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_1150;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_1169;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_1190;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_1219;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_134;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_173;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_174;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_215;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_266;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_274;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_288;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_417;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_467;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_473;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_506;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_597;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_704;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_712;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_720;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_763;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_773;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_910;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_977;Activated B-cell Type;---;---;FALSE
+DLBCL-RICOVER_99;Activated B-cell Type;---;---;FALSE
+DLBCL-DFCI_DLBCL_Goe05;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-DFCI_DLBCL_Goe08;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-DFCI_DLBCL_Goe16;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-DFCI_DLBCL_Goe17;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS1098;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS1395;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS148;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS1668;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS1757;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL-LS2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL-LS2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL-LS2264;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL-LS2305;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS2325;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS2357;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS2595;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS3615;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL-LS378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL-LS378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL-LS378;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL-LS3808;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4222;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4394;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS4593;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS762;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS843;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-MAYO_DLBCL_7359;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_102;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_107;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_1199;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_1235;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_1237;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_1263;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_151;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_181;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_224;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_314;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_325;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_336;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_401;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_449;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_543;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_839;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_950;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS146;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS155;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS1620;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS1899;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS1921;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS2245;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS2328;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS2367;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS2599;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS297;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3204;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3245;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3309;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3387;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3499;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3749;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3820;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3866;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS4592;Germinal Center B-Cell Type;BTK;Acalabrutinib;TRUE
+DLBCL-LS4592;Germinal Center B-Cell Type;BTK;Ibrutinib;TRUE
+DLBCL-LS4592;Germinal Center B-Cell Type;BTK;Pirtobrutinib;TRUE
+DLBCL-LS4592;Germinal Center B-Cell Type;BTK;Zanubrutinib;TRUE
+DLBCL-LS4616;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS4618;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS4619;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS951;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-MAYO_DLBCL_234;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-MAYO_DLBCL_3653;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_1013;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_1081;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_126;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_1269;Germinal Center B-Cell Type;BTK;Acalabrutinib;TRUE
+DLBCL-RICOVER_1269;Germinal Center B-Cell Type;BTK;Ibrutinib;TRUE
+DLBCL-RICOVER_1269;Germinal Center B-Cell Type;BTK;Pirtobrutinib;TRUE
+DLBCL-RICOVER_1269;Germinal Center B-Cell Type;BTK;Zanubrutinib;TRUE
+DLBCL-RICOVER_148;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_197;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_253;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_267;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_269;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_299;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_320;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_338;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_361;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_384;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_496;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_522;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_533;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_623;Germinal Center B-Cell Type;BTK;Acalabrutinib;TRUE
+DLBCL-RICOVER_623;Germinal Center B-Cell Type;BTK;Ibrutinib;TRUE
+DLBCL-RICOVER_623;Germinal Center B-Cell Type;BTK;Pirtobrutinib;TRUE
+DLBCL-RICOVER_623;Germinal Center B-Cell Type;BTK;Zanubrutinib;TRUE
+DLBCL-RICOVER_685;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_711;Germinal Center B-Cell Type;---;---;FALSE
+DLBCL_DUKE_1008;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_1016;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2043;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2044;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2045;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2046;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2047;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2048;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2057;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2060;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2072;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2073;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2074;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2075;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2076;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2077;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2078;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2079;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2080;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2081;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2083;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2084;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2085;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2087;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2088;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2089;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2091;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2092;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2093;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2095;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2097;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2100;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2101;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2102;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2103;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2106;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2107;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2109;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2110;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2111;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2112;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2113;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2114;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2115;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2120;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2121;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2122;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2124;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2125;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2126;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2127;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2128;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2130;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2133;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2134;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2135;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2136;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2137;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2138;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2140;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2141;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2142;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2143;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2144;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2145;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2146;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2147;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2148;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2149;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2150;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2151;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2152;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2153;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2154;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2155;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2156;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2157;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2158;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2159;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2160;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2161;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2162;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2163;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2164;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2165;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2166;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2190;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2191;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2192;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2193;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2194;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2195;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2196;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2198;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2199;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2200;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2201;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2203;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2204;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2205;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2206;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2207;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2208;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2209;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2210;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2211;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2212;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2213;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2215;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2216;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2217;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2219;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2220;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2221;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2222;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2224;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2225;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2226;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2228;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2229;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2230;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2231;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2232;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2233;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2234;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2235;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2236;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2237;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2238;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2239;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2240;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2241;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2242;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2243;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2244;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2246;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2247;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2248;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2249;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2250;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2251;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2253;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2254;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2254;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2254;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2254;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2255;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2256;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2259;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2259;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2259;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2259;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2260;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2261;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2262;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2263;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2269;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2270;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2271;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2272;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2273;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2274;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2274;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2274;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2274;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2278;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2279;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2281;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2286;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2290;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2291;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2293;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2297;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2298;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2300;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2302;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2303;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2306;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2307;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2448;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2449;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2450;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2451;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2453;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2455;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2459;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2461;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2462;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2463;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2464;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2466;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2467;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2467;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2467;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2467;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2468;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2469;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2470;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2471;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2472;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2473;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2474;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2475;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2476;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2477;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2478;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2479;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2480;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2481;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2482;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2483;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2485;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2487;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2488;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2522;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2523;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2524;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2525;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2528;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2529;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2530;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2532;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2533;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2534;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2538;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2539;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2540;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2541;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2541;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2541;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2541;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2542;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2542;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2542;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2542;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2543;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2544;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2545;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2547;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2548;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2549;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2550;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2551;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2552;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2553;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2554;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2555;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2556;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2559;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2560;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2561;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2562;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2565;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2567;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2570;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2571;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2573;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2575;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2576;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2577;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2578;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2580;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2581;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2582;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2585;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2588;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2591;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2593;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2594;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2596;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2597;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2599;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2600;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2602;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2603;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2604;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2605;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2606;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2608;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2609;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2611;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2612;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2613;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2614;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2616;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2617;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2619;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2620;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2621;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2622;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2624;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2626;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2628;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2629;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2630;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2632;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2634;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2635;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2636;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2636;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2636;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2636;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2637;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2639;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2640;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2642;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2643;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2644;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2644;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2644;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2644;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2646;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2647;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2649;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2650;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2651;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2652;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2654;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2655;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2656;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2657;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2658;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2659;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2660;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2662;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2663;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2664;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2666;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2667;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2669;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2671;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2673;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2675;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2676;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2677;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2678;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2680;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2680;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2680;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2680;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2681;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2684;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2685;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2687;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2688;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2689;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2690;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2691;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2692;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2696;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2697;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2698;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2699;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2700;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2704;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2705;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2706;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2707;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2709;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2713;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2714;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2715;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2716;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2718;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2719;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2720;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2725;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2727;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2728;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2758;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2761;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2762;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2763;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2764;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2764;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2764;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2764;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2765;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2766;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2766;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2766;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2766;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2767;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2768;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2769;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2770;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2771;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2772;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2773;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2775;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2776;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2777;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2778;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2779;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2781;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2783;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2784;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2785;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2786;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2788;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2789;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2790;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2791;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2792;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2793;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2794;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2805;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2806;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2808;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2809;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2810;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2812;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2813;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2814;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2815;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2816;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2818;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2819;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2820;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2821;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2823;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2824;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2826;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2827;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2828;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2829;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2830;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2831;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2832;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2833;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2834;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2836;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2837;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2838;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2839;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2840;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2841;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2843;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2844;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2865;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2867;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2871;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2872;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2873;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2874;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2877;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2878;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2879;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2881;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2882;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2884;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2886;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2887;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2888;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2889;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2891;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2892;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2894;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2895;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2897;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2898;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2899;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2900;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2901;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2902;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2903;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2903;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2903;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2903;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2904;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2905;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2908;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2908;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2908;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2908;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2909;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2910;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2912;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2915;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2917;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2918;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2919;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2921;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2922;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2923;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2925;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2928;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2931;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2933;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2934;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2935;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2936;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2939;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2944;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2945;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2946;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2946;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2946;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2946;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2947;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2948;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2949;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2950;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2951;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_2951;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_2951;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2951;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_2952;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2953;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2955;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2956;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2957;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2995;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2996;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2998;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2999;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3382;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3384;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3385;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3386;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3387;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3388;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3389;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3390;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3394;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3396;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3398;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3399;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3401;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3403;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3404;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3405;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3406;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3407;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3408;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3409;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3411;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3411;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3411;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3411;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3412;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3412;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3412;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3412;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3413;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3417;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3418;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3419;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3422;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3423;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3424;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3429;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3430;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3431;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3432;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3433;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3434;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3435;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3438;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3439;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3440;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3441;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3444;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3446;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3447;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3447;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3447;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3447;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3448;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3449;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3450;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3451;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3453;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3454;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3455;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3456;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3457;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3458;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3459;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3460;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3461;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3462;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3463;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3464;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3465;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3467;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3468;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3470;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3471;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3472;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3473;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3474;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3475;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3476;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3478;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3479;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3480;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3481;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3482;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3483;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3484;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3485;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3486;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3487;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3488;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3489;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3490;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3493;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3493;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3493;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3493;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3495;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3496;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3497;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3498;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3500;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3502;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3503;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3504;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3504;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3504;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3504;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3505;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3506;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3507;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3508;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3510;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3511;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3512;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3513;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3514;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3515;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3517;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3519;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3520;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3521;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3522;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3523;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3525;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3527;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3528;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3529;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3531;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3532;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3535;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3536;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3537;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3538;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3539;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3540;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3542;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3545;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3546;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3547;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3548;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3549;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3551;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3552;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3555;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3556;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3557;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3558;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3559;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3560;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3561;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3562;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3563;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3565;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3566;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3580;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3582;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3584;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3585;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3586;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3587;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3589;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3590;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3592;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3593;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3594;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3595;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3596;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3597;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3600;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3601;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3602;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3603;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3604;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3606;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3607;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3608;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3609;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3610;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3611;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3612;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3613;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3614;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3615;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3616;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3617;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3618;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3618;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3618;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3618;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3620;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3622;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3623;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3624;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3625;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3627;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3628;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3629;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3630;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3631;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3632;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3634;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3635;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3636;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3637;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3638;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3639;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3640;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3642;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3643;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3644;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3645;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3646;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3647;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3648;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3649;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3651;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3652;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3653;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3654;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3655;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3656;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3657;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3659;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3660;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3661;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3662;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3663;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3664;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3665;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3666;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3667;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3668;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3669;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3671;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3672;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3673;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3674;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3675;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3677;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3679;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3680;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3681;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3682;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3683;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3684;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3685;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3686;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3687;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3688;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3689;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3691;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3692;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3692;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3692;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3692;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3693;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3694;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3696;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3697;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3698;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3699;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3700;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3701;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3703;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3704;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3706;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3707;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3708;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3709;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3709;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3709;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3709;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3711;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3712;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3713;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3715;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3716;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3717;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3718;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3719;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3721;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3722;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3724;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3725;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3726;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3727;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3728;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3728;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3728;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3728;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3729;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3730;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3731;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3732;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3733;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3734;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3735;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3736;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3737;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3739;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3740;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3741;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3742;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3743;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3745;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3746;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3747;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3748;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3749;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3750;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3751;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3753;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3754;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3755;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3756;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3757;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3758;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3759;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3760;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3761;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3762;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3763;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3764;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3765;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3766;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3767;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3770;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3771;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3775;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3776;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3777;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3778;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3779;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3780;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3781;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3782;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3783;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3784;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3785;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3786;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3787;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3810;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3811;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3812;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3813;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3814;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3815;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3816;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3817;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3819;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3820;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3821;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3822;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3823;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3824;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3825;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3826;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3827;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3828;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3829;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3830;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3831;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3832;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3833;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3834;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3835;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3836;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3837;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3838;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3839;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3840;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3842;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3843;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3845;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3846;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3847;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3848;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3849;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3851;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3852;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3854;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3856;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3857;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3859;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3861;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3865;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3867;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3871;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3872;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3873;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3875;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3876;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3879;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3880;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3881;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3882;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3883;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3885;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3885;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3885;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3885;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3886;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3887;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3888;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3889;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3891;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3892;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3893;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3894;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3895;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3896;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3896;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3896;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3896;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3898;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3899;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3900;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3901;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3902;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3903;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3904;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3905;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3906;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3907;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3908;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3909;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_3909;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_3909;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3909;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_3911;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3912;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3913;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3914;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3915;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3916;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3917;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3918;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3919;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3920;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3921;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3922;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3923;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3924;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3925;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3926;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3927;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3928;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3929;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3930;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3931;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3932;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3933;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3935;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3936;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3937;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3938;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3939;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3940;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3941;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3942;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3943;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3944;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3945;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3946;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3948;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3949;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3950;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3951;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3952;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3953;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3954;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3955;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3956;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3957;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3958;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3959;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3960;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3961;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3963;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3964;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3965;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3966;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3967;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3968;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3969;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3971;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3972;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3973;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3974;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3975;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3976;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3977;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3978;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3979;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3980;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3981;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3982;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3983;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3984;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3985;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3986;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3987;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3988;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3989;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3990;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3991;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3992;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3993;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3994;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3995;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3996;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3997;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3998;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3999;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_648;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_658;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_683;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_684;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_689;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_690;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_695;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_702;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_704;Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
+DLBCL_DUKE_704;Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
+DLBCL_DUKE_704;Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_704;Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
+DLBCL_DUKE_705;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_707;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_759;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_787;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_790;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_793;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_799;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_800;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_813;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_816;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_823;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_829;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_830;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_831;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_832;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+MD903;Activated B-cell Type;---;---;FALSE
+NU-DUL-1;Activated B-cell Type;---;---;FALSE
+OCI-Ly3;Activated B-cell Type;---;---;FALSE
+RG023;Activated B-cell Type;---;---;FALSE
+RG026;Activated B-cell Type;---;---;FALSE
+RG027;Activated B-cell Type;---;---;FALSE
+RG028;Activated B-cell Type;---;---;FALSE
+RG036;Activated B-cell Type;---;---;FALSE
+RG038;Activated B-cell Type;---;---;FALSE
+RG049;Activated B-cell Type;---;---;FALSE
+RG061;Activated B-cell Type;---;---;FALSE
+RG065;Activated B-cell Type;---;---;FALSE
+RG074;Activated B-cell Type;---;---;FALSE
+RG081;Activated B-cell Type;---;---;FALSE
+RG086;Activated B-cell Type;---;---;FALSE
+RG138;Activated B-cell Type;---;---;FALSE
+SU-DHL-9;Activated B-cell Type;---;---;FALSE
+RG024;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+RG051;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+RG067;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+RG115;Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DB;Germinal Center B-Cell Type;---;---;FALSE
+DOHH-2;Germinal Center B-Cell Type;---;---;FALSE
+Karpas422;Germinal Center B-Cell Type;---;---;FALSE
+NU-DHL-1;Germinal Center B-Cell Type;---;---;FALSE
+OCI-Ly1;Germinal Center B-Cell Type;---;---;FALSE
+OCI-Ly19;Germinal Center B-Cell Type;---;---;FALSE
+OCI-Ly7;Germinal Center B-Cell Type;---;---;FALSE
+RG003;Germinal Center B-Cell Type;---;---;FALSE
+RG008;Germinal Center B-Cell Type;---;---;FALSE
+RG013;Germinal Center B-Cell Type;---;---;FALSE
+RG014;Germinal Center B-Cell Type;---;---;FALSE
+RG034;Germinal Center B-Cell Type;---;---;FALSE
+RG040;Germinal Center B-Cell Type;---;---;FALSE
+RG043;Germinal Center B-Cell Type;---;---;FALSE
+RG054;Germinal Center B-Cell Type;---;---;FALSE
+RG055;Germinal Center B-Cell Type;---;---;FALSE
+RG064;Germinal Center B-Cell Type;---;---;FALSE
+RG068;Germinal Center B-Cell Type;---;---;FALSE
+RG075;Germinal Center B-Cell Type;---;---;FALSE
+RG077;Germinal Center B-Cell Type;---;---;FALSE
+RG082;Germinal Center B-Cell Type;---;---;FALSE
+RG083;Germinal Center B-Cell Type;---;---;FALSE
+RG111;Germinal Center B-Cell Type;---;---;FALSE
+RG116;Germinal Center B-Cell Type;---;---;FALSE
+RG130;Germinal Center B-Cell Type;---;---;FALSE
+RG132;Germinal Center B-Cell Type;---;---;FALSE
+RG135;Germinal Center B-Cell Type;---;---;FALSE
+RG136;Germinal Center B-Cell Type;---;---;FALSE
+RG142;Germinal Center B-Cell Type;---;---;FALSE
+SU-DHL-6;Germinal Center B-Cell Type;---;---;FALSE
+WSU-DLCL2;Germinal Center B-Cell Type;---;---;FALSE

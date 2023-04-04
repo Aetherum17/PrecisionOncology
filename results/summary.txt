@@ -1,0 +1,6 @@
+<html>
+<head><title>Example</title></head>
+<body>
+How Many people for each Diagnosis can be assigned to Drug therapy?<br>
+</body>
+</html>
