@@ -57,9 +57,8 @@ setwd(directory)
 outputfile_path <- paste(directory, "results/output.txt", sep = "/")
 logfile_path <- paste(directory, "results/log.log", sep = "/")
 summary_path <- paste(directory, "results/summary.html", sep = "/")
-#summary_path <- paste(directory, "results/summary.txt", sep = "/")
-#file.create(outputfile_path)
-#write(c("Sample_ID;Diagnosis;Target;Drug;Found_Drug"), outputfile_path, append=TRUE)
+file.create(outputfile_path)
+write(c("Sample_ID;Diagnosis;Target;Drug;Found_Drug"), outputfile_path, append=TRUE)
 file.create(logfile_path)
 file.create(summary_path)
 unlink(paste(directory, "data/temp", sep = "/"), recursive = TRUE)
@@ -107,12 +106,15 @@ for (file_num in 1:length(data_files_list)){
         write(paste("# OK: ", tar_file_folder, " - Clinical Sample File Exists", sep = ""), logfile_path, append=TRUE)
         # Read Clinical Sample file
         data_clinical_df <- read.table(paste(tar_directory, "data_clinical_sample.txt", sep = "/"), header = TRUE, stringsAsFactors = FALSE, sep = "\t")
-        if("SAMPLE_ID" %in% colnames(data_clinical_df) & "CANCER_TYPE_DETAILED" %in% colnames(data_clinical_df)){
+        if("SAMPLE_ID" %in% colnames(data_clinical_df) & "CANCER_TYPE" %in% colnames(data_clinical_df) & "CANCER_TYPE_DETAILED" %in% colnames(data_clinical_df)){
           write("# OK: SAMPLE_ID and CANCER_TYPE_DETAILED Columns exist.", logfile_path, append=TRUE)
           # Select only the columns we need
-          data_clinical_df <- data_clinical_df[,c("SAMPLE_ID", "CANCER_TYPE_DETAILED")]
+          data_clinical_df <- data_clinical_df[,c("SAMPLE_ID", "CANCER_TYPE", "CANCER_TYPE_DETAILED")]
           # Rename the Columns
-          colnames(data_clinical_df) <- c("Tumor_Sample_Barcode", "Cancer_Type_Detailed")
+          colnames(data_clinical_df) <- c("Tumor_Sample_Barcode", "Cancer_Type", "Cancer_Type_Detailed")
+          # Merge Cancer Type and Cancer Type Detailed
+          data_clinical_df$Cancer_Type_Detailed <- paste(data_clinical_df$Cancer_Type, data_clinical_df$Cancer_Type_Detailed, sep = ": ")
+          data_clinical_df <- subset(data_clinical_df, select = -c(Cancer_Type))
           # Merge Data of Mutations with Clinical Samples
           data_merged_df <- merge(data_df, data_clinical_df, by="Tumor_Sample_Barcode")
           # Connect each sample with all mutations discovered
@@ -158,9 +160,6 @@ rownames(output_df_1_table)[nrow(output_df_1_table)] <- "Sum"
 ################################################################################
 
 summary_file <- file(summary_path, open = "w")
-
-title <- "Statistics of Targeted Drugs for Hematological Malignancies"
-subtitle <- "How Many Samples for each Diagnosis can be assigned to the Drug therapy?"
 
 # Create HTML File
 html <- tags$html(
