@@ -5,3 +5,5 @@ Zanubrutinib,BTK
 Pirtobrutinib,BTK
 Copanlisib,PI3K
 Duvelisib,PI3K
+Tazemetostat,EZH2
+Selinexor,XPO1

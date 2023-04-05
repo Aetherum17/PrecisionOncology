@@ -145,17 +145,47 @@ for (file_num in 1:length(data_files_list)){
 # Load the Output data
 output_df <- read.csv(outputfile_path, row.names=NULL, sep = ";")
 head(output_df)
+
 ### How Many people for each Diagnosis can be assigned to Drug therapy?
 output_df_1 <- output_df[,c("Sample_ID", "Diagnosis", "Found_Drug")]
-# Some patients may be suitabe for multiple drug therapy, so we remove the duplicated lines
+# Some patients may be suited for multiple drug therapy, so we remove the duplicated lines
 output_df_1 <- output_df_1[!duplicated(output_df_1),]
+# Drop Sample ID column, as we do not need it anymore
 output_df_1 <- subset(output_df_1, select = -c(Sample_ID))
+# Create table
 output_df_1_table <- table(output_df_1)
+output_df_1_table_prop <- round(prop.table(table(output_df_1)), 2)*100
+# Add some of rows and columns
 output_df_1_table <- cbind(output_df_1_table, rowSums(output_df_1_table))
 output_df_1_table <- rbind(output_df_1_table, c(colSums(output_df_1_table), sum(output_df_1_table)))
+# Rename Rows and Columns
 colnames(output_df_1_table) <- c("No Drug Found", "Drug Exists", "Sum")
 rownames(output_df_1_table)[nrow(output_df_1_table)] <- "Sum"
+colnames(output_df_1_table_prop) <- c("No Drug Found (%)", "Drug Exists (%)")
 
+### What are the most common drugs used?
+output_df_2 <- output_df[,c("Drug")]
+output_df_2_table <- sort(table(output_df_2), decreasing=TRUE)
+names(output_df_2_table)[1] <- "No Drug Found"
+output_df_2 <- as.data.frame(output_df_2_table)
+output_df_2$Percent <- round(output_df_2$Freq/sum(output_df_2$Freq)*100, 2)
+colnames(output_df_2) <- c("Drug", "Number of Samples", "Number of Samples (%)")
+
+### What are the most common targets used?
+output_df_3 <- output_df[,c("Target")]
+output_df_3_table <- sort(table(output_df_3), decreasing=TRUE)
+names(output_df_3_table)[1] <- "No Target Found"
+output_df_3 <- as.data.frame(output_df_3_table)
+output_df_3$Percent <- round(output_df_3$Freq/sum(output_df_3$Freq)*100, 2)
+colnames(output_df_3) <- c("Target", "Number of Samples", "Number of Samples (%)")
+
+### What are the most frequent mutations in the samples?
+output_df_4 <- data_df[,c("Hugo_Symbol")]
+output_df_4_table <- sort(table(output_df_4), decreasing = TRUE)
+output_df_4 <- as.data.frame(output_df_4_table)
+output_df_4$Percent <- round(output_df_4$Freq/sum(output_df_4$Freq)*100, 2)
+output_df_4 <- output_df_4[output_df_4$Freq>9,]
+colnames(output_df_4) <- c("Mutated Gene", "Frequency", "In Number of Samples (%)")
 
 ################################################################################
 
@@ -166,7 +196,14 @@ html <- tags$html(
   tags$body(
     tags$h1("Statistics of Targeted Drugs for Hematological Malignancies"),
     tags$h2("How Many Samples for each Diagnosis can be assigned to the Drug therapy?"),
-    htmlTable(output_df_1_table, css.cell = "padding: 0 50px;")
+    htmlTable(output_df_1_table, css.cell = "padding: 0 50px;"),
+    htmlTable(output_df_1_table_prop, css.cell = "padding: 0 70px;"),
+    tags$h2("What are the most common drugs used?"),
+    htmlTable(output_df_2, css.cell = "padding: 0 50px;"),
+    tags$h2("What are the most common targets used?"),
+    htmlTable(output_df_3, css.cell = "padding: 0 50px;"),
+    tags$h2("What are the most frequent mutations in the samples?"),
+    htmlTable(output_df_4, css.cell = "padding: 0 50px;"),
   )
 )
 

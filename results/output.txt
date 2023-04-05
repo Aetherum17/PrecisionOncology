@@ -3,14 +3,14 @@ DFCI_DLBCL_Goe01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---
 DFCI_DLBCL_Goe05;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DFCI_DLBCL_Goe16;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-Ls1065;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL-Ls1098;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1098;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL-Ls1395;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-Ls148;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-Ls1546;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-Ls1583;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL-Ls1620;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1620;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL-Ls1668;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL-Ls1683;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls1683;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL-Ls1757;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-Ls1899;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-Ls1921;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -22,19 +22,19 @@ DLBCL-Ls2264;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Aca
 DLBCL-Ls2264;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
 DLBCL-Ls2264;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
 DLBCL-Ls2264;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
-DLBCL-Ls2305;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2305;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL-Ls2328;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL-Ls2357;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls2357;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL-Ls2367;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-Ls2590;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-Ls2596;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL-Ls297;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls297;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL-Ls2978;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-Ls3200;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-Ls3204;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-Ls3245;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-LS3271;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL-Ls3309;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls3309;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL-Ls3387;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-Ls3499;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-Ls3615;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -58,7 +58,7 @@ DLBCL-LS4616;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---
 DLBCL-LS4618;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-LS4619;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-Ls762;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL-Ls843;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-Ls843;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL-Ls951;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-MAYO_DLBCL_234;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-MAYO_DLBCL_5613;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -92,20 +92,20 @@ TCGA-GS-A9TQ-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;
 TCGA-GS-A9TQ-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
 TCGA-GS-A9TT-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 TCGA-GS-A9TU-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-TCGA-GS-A9TV-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-TCGA-GS-A9TW-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TV-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
+TCGA-GS-A9TW-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 TCGA-GS-A9TX-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-TCGA-GS-A9TY-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+TCGA-GS-A9TY-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 TCGA-GS-A9TZ-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 TCGA-GS-A9U3-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 TCGA-GS-A9U4-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 TCGA-RQ-A68N-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 TCGA-RQ-AAAT-01;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-LS1065;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
-DLBCL-LS1304;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
+DLBCL-LS1304;Mature B-Cell Neoplasms: Activated B-cell Type;XPO1;Selinexor;TRUE
 DLBCL-LS1546;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
 DLBCL-LS1583;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
-DLBCL-LS1683;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
+DLBCL-LS1683;Mature B-Cell Neoplasms: Activated B-cell Type;XPO1;Selinexor;TRUE
 DLBCL-LS2089;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
 DLBCL-LS2154;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
 DLBCL-LS2208;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
@@ -153,7 +153,7 @@ DLBCL-RICOVER_977;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
 DLBCL-RICOVER_99;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
 DLBCL-DFCI_DLBCL_Goe05;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-DFCI_DLBCL_Goe08;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL-DFCI_DLBCL_Goe16;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-DFCI_DLBCL_Goe16;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL-DFCI_DLBCL_Goe17;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-LS1098;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-LS1395;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -164,9 +164,9 @@ DLBCL-LS2264;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Aca
 DLBCL-LS2264;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
 DLBCL-LS2264;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
 DLBCL-LS2264;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
-DLBCL-LS2305;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS2305;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL-LS2325;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL-LS2357;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS2357;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL-LS2595;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-LS3615;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-LS378;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
@@ -177,13 +177,13 @@ DLBCL-LS3808;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---
 DLBCL-LS4222;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-LS4394;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-LS4593;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL-LS762;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL-LS843;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-LS762;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
+DLBCL-LS843;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL-MAYO_DLBCL_7359;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-RICOVER_102;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-RICOVER_107;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-RICOVER_1199;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL-RICOVER_1235;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL-RICOVER_1235;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL-RICOVER_1237;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-RICOVER_1263;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-RICOVER_151;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -198,18 +198,18 @@ DLBCL-RICOVER_543;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;--
 DLBCL-RICOVER_839;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-RICOVER_950;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL-LS146;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-DLBCL-LS155;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-DLBCL-LS1620;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS155;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
+DLBCL-LS1620;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
 DLBCL-LS1899;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-LS1921;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-LS2245;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-LS2328;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-LS2367;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-LS2599;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-DLBCL-LS297;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS297;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
 DLBCL-LS3204;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-LS3245;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-DLBCL-LS3309;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-LS3309;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
 DLBCL-LS3387;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-LS3499;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-LS3749;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
@@ -233,13 +233,13 @@ DLBCL-RICOVER_1269;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;BTK;Ibru
 DLBCL-RICOVER_1269;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;BTK;Pirtobrutinib;TRUE
 DLBCL-RICOVER_1269;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;BTK;Zanubrutinib;TRUE
 DLBCL-RICOVER_148;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-DLBCL-RICOVER_197;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_197;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;XPO1;Selinexor;TRUE
 DLBCL-RICOVER_253;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-RICOVER_267;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-RICOVER_269;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-RICOVER_299;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-RICOVER_320;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-DLBCL-RICOVER_338;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
+DLBCL-RICOVER_338;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;XPO1;Selinexor;TRUE
 DLBCL-RICOVER_361;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-RICOVER_384;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-RICOVER_496;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
@@ -248,6 +248,7 @@ DLBCL-RICOVER_533;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;F
 DLBCL-RICOVER_623;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;BTK;Acalabrutinib;TRUE
 DLBCL-RICOVER_623;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;BTK;Ibrutinib;TRUE
 DLBCL-RICOVER_623;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;BTK;Pirtobrutinib;TRUE
+DLBCL-RICOVER_623;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
 DLBCL-RICOVER_623;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;BTK;Zanubrutinib;TRUE
 DLBCL-RICOVER_685;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 DLBCL-RICOVER_711;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
@@ -255,7 +256,7 @@ DLBCL_DUKE_1008;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_1016;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2043;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2044;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2045;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2045;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2046;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2047;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2048;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -264,7 +265,7 @@ DLBCL_DUKE_2060;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2072;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2073;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2074;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2075;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2075;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2076;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2077;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2078;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -278,13 +279,13 @@ DLBCL_DUKE_2087;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2088;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2089;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2091;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2092;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2092;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2093;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2095;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2097;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2100;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2101;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2102;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2102;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2103;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2106;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2107;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -311,7 +312,8 @@ DLBCL_DUKE_2136;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2137;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2138;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2140;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2141;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2141;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
+DLBCL_DUKE_2141;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2142;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2143;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2144;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -331,7 +333,8 @@ DLBCL_DUKE_2157;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2158;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2159;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2160;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2161;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2161;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
+DLBCL_DUKE_2161;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2162;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2163;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2164;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -342,13 +345,13 @@ DLBCL_DUKE_2191;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2192;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2193;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2194;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2195;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2195;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_2196;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2198;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2199;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2200;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2201;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2203;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2203;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2204;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2205;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2206;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -358,15 +361,15 @@ DLBCL_DUKE_2209;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2210;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2211;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2212;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2213;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2213;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2215;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2216;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2217;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2216;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
+DLBCL_DUKE_2217;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2219;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2220;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2221;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2222;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2224;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2224;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2225;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2226;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2228;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -374,7 +377,7 @@ DLBCL_DUKE_2229;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2230;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2231;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2232;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2233;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2233;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2234;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2235;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2236;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -385,7 +388,7 @@ DLBCL_DUKE_2240;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2241;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2242;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2243;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2244;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2244;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2246;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2247;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2248;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -420,14 +423,15 @@ DLBCL_DUKE_2278;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2279;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2281;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2286;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2290;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2290;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
+DLBCL_DUKE_2290;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2291;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2293;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2297;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2298;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2298;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2300;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2302;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2303;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2303;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2306;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2307;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2448;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -472,8 +476,8 @@ DLBCL_DUKE_2525;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2528;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2529;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2530;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2532;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2533;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2532;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
+DLBCL_DUKE_2533;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2534;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2538;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2539;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -496,12 +500,12 @@ DLBCL_DUKE_2550;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2551;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2552;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2553;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2554;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2554;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2555;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2556;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2559;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2560;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2561;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2561;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2562;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2565;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2567;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -523,11 +527,11 @@ DLBCL_DUKE_2594;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2596;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2597;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2599;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2600;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2600;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2602;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2603;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2604;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2605;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2605;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2606;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2608;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2609;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -542,7 +546,7 @@ DLBCL_DUKE_2620;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2621;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2622;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2624;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2626;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2626;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2628;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2629;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2630;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -552,10 +556,11 @@ DLBCL_DUKE_2635;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2636;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
 DLBCL_DUKE_2636;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
 DLBCL_DUKE_2636;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_2636;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2636;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
 DLBCL_DUKE_2637;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2639;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2640;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2640;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2642;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2643;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2644;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
@@ -568,24 +573,24 @@ DLBCL_DUKE_2649;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2650;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2651;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2652;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2654;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2654;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2655;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2656;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2657;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2658;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2659;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2660;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2662;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2662;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2663;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2664;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2666;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2667;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2669;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2669;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2671;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2673;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2675;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2676;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2677;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2677;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2678;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2680;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
 DLBCL_DUKE_2680;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
@@ -645,22 +650,22 @@ DLBCL_DUKE_2776;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2777;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2778;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2779;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2781;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2781;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_2783;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2784;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2785;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2786;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2786;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2788;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2789;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2790;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2791;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2792;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2792;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2793;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2794;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2794;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2805;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2806;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2808;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2809;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2809;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_2810;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2812;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2813;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -670,7 +675,7 @@ DLBCL_DUKE_2816;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2818;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2819;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2820;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2821;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2821;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2823;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2824;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2826;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -681,7 +686,7 @@ DLBCL_DUKE_2830;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2831;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2832;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2833;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2834;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2834;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2836;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2837;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2838;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -692,18 +697,18 @@ DLBCL_DUKE_2843;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2844;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2865;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2867;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2871;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2871;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_2872;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2873;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2874;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2877;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2877;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_2878;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2879;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2881;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2882;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2884;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2886;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2887;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2887;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2888;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2889;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2891;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -713,7 +718,7 @@ DLBCL_DUKE_2895;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2897;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2898;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2899;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2900;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2900;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2901;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2902;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2903;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
@@ -721,7 +726,7 @@ DLBCL_DUKE_2903;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;
 DLBCL_DUKE_2903;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
 DLBCL_DUKE_2903;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
 DLBCL_DUKE_2904;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2905;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2905;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2908;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
 DLBCL_DUKE_2908;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
 DLBCL_DUKE_2908;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
@@ -765,7 +770,7 @@ DLBCL_DUKE_2956;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_2957;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2995;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_2996;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_2998;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_2998;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_2999;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3382;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3384;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -774,7 +779,7 @@ DLBCL_DUKE_3386;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3387;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3388;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3389;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3390;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3390;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3394;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3396;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3398;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -812,7 +817,7 @@ DLBCL_DUKE_3435;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3438;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3439;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3440;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3441;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3441;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3444;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3446;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3447;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
@@ -822,14 +827,14 @@ DLBCL_DUKE_3447;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;
 DLBCL_DUKE_3448;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3449;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3450;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3451;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3451;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3453;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3454;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3455;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3456;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3457;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3458;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3459;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3459;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3460;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3461;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3462;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -842,7 +847,7 @@ DLBCL_DUKE_3470;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3471;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3472;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3473;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3474;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3474;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3475;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3476;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3478;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -855,8 +860,8 @@ DLBCL_DUKE_3484;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3485;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3486;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3487;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3488;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3489;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3488;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
+DLBCL_DUKE_3489;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_3490;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3493;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
 DLBCL_DUKE_3493;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
@@ -883,14 +888,14 @@ DLBCL_DUKE_3512;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3513;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3514;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3515;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3517;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3517;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_3519;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3520;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3521;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3522;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3523;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3523;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_3525;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3527;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3527;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3528;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3529;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3531;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -906,7 +911,7 @@ DLBCL_DUKE_3545;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3546;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3547;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3548;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3549;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3549;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_3551;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3552;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3555;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -924,21 +929,22 @@ DLBCL_DUKE_3580;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3582;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3584;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3585;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3586;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3586;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
+DLBCL_DUKE_3586;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3587;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3589;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3590;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3590;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_3592;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3593;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3594;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3595;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3596;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3597;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3600;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3600;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3601;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3602;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3603;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3604;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3604;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3606;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3607;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3608;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -954,12 +960,13 @@ DLBCL_DUKE_3617;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3618;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
 DLBCL_DUKE_3618;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
 DLBCL_DUKE_3618;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3618;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3618;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
 DLBCL_DUKE_3620;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3622;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3623;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3624;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3625;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3625;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_3627;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3628;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3629;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -996,10 +1003,10 @@ DLBCL_DUKE_3663;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3664;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3665;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3666;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3667;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3667;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_3668;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3669;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3671;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3671;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3672;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3673;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3674;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -1020,12 +1027,13 @@ DLBCL_DUKE_3691;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3692;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
 DLBCL_DUKE_3692;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
 DLBCL_DUKE_3692;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
+DLBCL_DUKE_3692;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3692;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
 DLBCL_DUKE_3693;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3694;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3694;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_3696;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3697;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3698;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3698;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3699;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3700;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3701;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -1056,7 +1064,7 @@ DLBCL_DUKE_3728;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;
 DLBCL_DUKE_3728;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
 DLBCL_DUKE_3728;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
 DLBCL_DUKE_3728;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
-DLBCL_DUKE_3729;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3729;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3730;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3731;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3732;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -1082,13 +1090,14 @@ DLBCL_DUKE_3754;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3755;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3756;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3757;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3758;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3759;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3758;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
+DLBCL_DUKE_3758;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
+DLBCL_DUKE_3759;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3760;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3761;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3762;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3763;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3764;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3764;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3765;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3766;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3767;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -1131,7 +1140,7 @@ DLBCL_DUKE_3831;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3832;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3833;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3834;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3835;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3835;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3836;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3837;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3838;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -1161,14 +1170,14 @@ DLBCL_DUKE_3876;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3879;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3880;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3881;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3882;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3882;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3883;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3885;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Acalabrutinib;TRUE
 DLBCL_DUKE_3885;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Ibrutinib;TRUE
 DLBCL_DUKE_3885;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Pirtobrutinib;TRUE
 DLBCL_DUKE_3885;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;Zanubrutinib;TRUE
 DLBCL_DUKE_3886;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3887;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3887;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3888;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3889;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3891;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -1183,7 +1192,7 @@ DLBCL_DUKE_3896;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;BTK;
 DLBCL_DUKE_3898;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3899;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3900;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3901;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3901;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3902;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3903;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3904;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -1232,14 +1241,14 @@ DLBCL_DUKE_3945;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3946;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3948;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3949;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3950;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3950;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_3951;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3952;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3953;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3954;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3955;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3956;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3957;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3957;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;XPO1;Selinexor;TRUE
 DLBCL_DUKE_3958;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3959;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3960;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -1252,7 +1261,7 @@ DLBCL_DUKE_3967;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;
 DLBCL_DUKE_3968;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3969;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3971;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_3972;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_3972;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 DLBCL_DUKE_3973;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3974;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_3975;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
@@ -1306,7 +1315,7 @@ DLBCL_DUKE_823;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;-
 DLBCL_DUKE_829;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_830;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 DLBCL_DUKE_831;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DLBCL_DUKE_832;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
+DLBCL_DUKE_832;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;EZH2;Tazemetostat;TRUE
 MD903;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
 NU-DUL-1;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
 OCI-Ly3;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
@@ -1323,33 +1332,33 @@ RG074;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
 RG081;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
 RG086;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
 RG138;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
-SU-DHL-9;Mature B-Cell Neoplasms: Activated B-cell Type;---;---;FALSE
+SU-DHL-9;Mature B-Cell Neoplasms: Activated B-cell Type;XPO1;Selinexor;TRUE
 RG024;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 RG051;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 RG067;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
 RG115;Mature B-Cell Neoplasms: Diffuse Large B-Cell Lymphoma, NOS;---;---;FALSE
-DB;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
+DB;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
 DOHH-2;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-Karpas422;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-NU-DHL-1;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-OCI-Ly1;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
+Karpas422;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
+NU-DHL-1;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;XPO1;Selinexor;TRUE
+OCI-Ly1;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
 OCI-Ly19;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 OCI-Ly7;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-RG003;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
+RG003;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
 RG008;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 RG013;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-RG014;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
+RG014;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
 RG034;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 RG040;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 RG043;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 RG054;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 RG055;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-RG064;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
+RG064;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
 RG068;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-RG075;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
+RG075;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
 RG077;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-RG082;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-RG083;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
+RG082;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
+RG083;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
 RG111;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 RG116;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 RG130;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
@@ -1357,5 +1366,5 @@ RG132;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 RG135;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 RG136;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
 RG142;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-SU-DHL-6;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
-WSU-DLCL2;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;---;---;FALSE
+SU-DHL-6;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
+WSU-DLCL2;Mature B-Cell Neoplasms: Germinal Center B-Cell Type;EZH2;Tazemetostat;TRUE
