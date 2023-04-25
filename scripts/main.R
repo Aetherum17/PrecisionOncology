@@ -14,7 +14,7 @@ library(tools)
 library(readr)
 library(htmltools)
 library(htmlTable)
-library(shiny)
+library(ggplot2)
 
 # Functions ####################################################################
 
@@ -57,10 +57,12 @@ setwd(directory)
 outputfile_path <- paste(directory, "results/output.txt", sep = "/")
 logfile_path <- paste(directory, "results/log.log", sep = "/")
 summary_path <- paste(directory, "results/summary.html", sep = "/")
+summary_txt_path <- paste(directory, "results/summary.txt", sep = "/")
 file.create(outputfile_path)
 write(c("Sample_ID;Diagnosis;Target;Drug;Found_Drug"), outputfile_path, append=TRUE)
 file.create(logfile_path)
 file.create(summary_path)
+file.create(summary_txt_path)
 unlink(paste(directory, "data/temp", sep = "/"), recursive = TRUE)
 
 # Drugs Data
@@ -124,6 +126,7 @@ for (file_num in 1:length(data_files_list)){
           ### Find Applicable Drugs
           output_df <- find_applicable_drugs(data_drugs, samples_df)
           write.table(output_df, file=outputfile_path, sep=";", quote=F, row.names=F, col.names = F, na="NA", append=TRUE)
+          write.table(samples_df, file=summary_txt_path, sep=";", quote=F, row.names=F, col.names = F, na="NA", append=TRUE)
         }
         else{
           write("# ERROR: Some of the required Columns DO NOT Exist.", logfile_path, append=TRUE)
@@ -162,6 +165,27 @@ output_df_1_table <- rbind(output_df_1_table, c(colSums(output_df_1_table), sum(
 colnames(output_df_1_table) <- c("No Drug Found", "Drug Exists", "Sum")
 rownames(output_df_1_table)[nrow(output_df_1_table)] <- "Sum"
 colnames(output_df_1_table_prop) <- c("No Drug Found (%)", "Drug Exists (%)")
+# Graph
+output_df_1_table_graph <- as.data.frame(output_df_1_table)[-nrow(output_df_1_table),-ncol(output_df_1_table)]
+output_df_1_table_graph$Diagnosis <- row.names(output_df_1_table_graph)
+output_df_1_table_graph <- output_df_1_table_graph %>% pivot_longer(cols=c('No Drug Found', "Drug Exists"),
+                                         names_to='Type',
+                                         values_to='Patients')
+output_df_1_table_graph$DiagnosisType <- paste(output_df_1_table_graph$Diagnosis, output_df_1_table_graph$Type, sep = ":\n")
+# Make the ggplot
+options(repr.plot.width =20, repr.plot.height =20)
+output_df_1_table_graph$fraction = output_df_1_table_graph$Patients / sum(output_df_1_table_graph$Patients)
+output_df_1_table_graph$ymax = cumsum(output_df_1_table_graph$fraction)
+output_df_1_table_graph$ymin = c(0, head(output_df_1_table_graph$ymax, n=-1))
+output_df_1_table_graph$labelPosition <- (output_df_1_table_graph$ymax + output_df_1_table_graph$ymin) / 2
+ggplot(output_df_1_table_graph, aes(ymax=ymax, ymin=ymin, xmax=4, xmin=3, fill=DiagnosisType)) +
+  geom_rect() +
+  geom_label( x=3.5, aes(y=labelPosition, label=Patients), size=6) +
+  scale_fill_brewer(palette=4) +
+  coord_polar(theta="y") +
+  xlim(c(2, 4)) +
+  theme_void() +
+  theme(legend.position = "right")+ scale_fill_brewer(palette="Dark2")+ggtitle("Patients with Mature B-Cell Neoplasms")
 
 ### What are the most common drugs used?
 output_df_2 <- output_df[,c("Drug")]
@@ -169,7 +193,7 @@ output_df_2_table <- sort(table(output_df_2), decreasing=TRUE)
 names(output_df_2_table)[1] <- "No Drug Found"
 output_df_2 <- as.data.frame(output_df_2_table)
 output_df_2$Percent <- round(output_df_2$Freq/sum(output_df_2$Freq)*100, 2)
-colnames(output_df_2) <- c("Drug", "Number of Samples", "Number of Samples (%)")
+colnames(output_df_2) <- c("Drug", "Number of Patients", "Number of Patients (%)")
 
 ### What are the most common targets used?
 output_df_3 <- output_df[,c("Target")]
@@ -177,14 +201,14 @@ output_df_3_table <- sort(table(output_df_3), decreasing=TRUE)
 names(output_df_3_table)[1] <- "No Target Found"
 output_df_3 <- as.data.frame(output_df_3_table)
 output_df_3$Percent <- round(output_df_3$Freq/sum(output_df_3$Freq)*100, 2)
-colnames(output_df_3) <- c("Target", "Number of Samples", "Number of Samples (%)")
+colnames(output_df_3) <- c("Target", "Number of Patients", "Number of Patients (%)")
 
 ### What are the most frequent mutations in the samples?
 output_df_4 <- data_df[,c("Hugo_Symbol")]
 output_df_4_table <- sort(table(output_df_4), decreasing = TRUE)
 output_df_4 <- as.data.frame(output_df_4_table)
 output_df_4$Percent <- round(output_df_4$Freq/sum(output_df_4$Freq)*100, 2)
-output_df_4 <- output_df_4[output_df_4$Freq>9,]
+output_df_4 <- output_df_4[output_df_4$Freq>4,]
 colnames(output_df_4) <- c("Mutated Gene", "Frequency", "In Number of Samples (%)")
 
 ################################################################################
