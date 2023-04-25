@@ -180,12 +180,12 @@ output_df_1_table_graph$ymin = c(0, head(output_df_1_table_graph$ymax, n=-1))
 output_df_1_table_graph$labelPosition <- (output_df_1_table_graph$ymax + output_df_1_table_graph$ymin) / 2
 ggplot(output_df_1_table_graph, aes(ymax=ymax, ymin=ymin, xmax=4, xmin=3, fill=DiagnosisType)) +
   geom_rect() +
-  geom_label( x=3.5, aes(y=labelPosition, label=Patients), size=6) +
+  geom_label( x=3.5, aes(y=labelPosition, label=Patients), size=4) +
   scale_fill_brewer(palette=4) +
   coord_polar(theta="y") +
   xlim(c(2, 4)) +
   theme_void() +
-  theme(legend.position = "right")+ scale_fill_brewer(palette="Dark2")+ggtitle("Patients with Mature B-Cell Neoplasms")
+  theme(legend.position = "bottom")+ scale_fill_brewer(palette="Dark2")+ggtitle("Patients with Mature B-Cell Neoplasms")
 
 ### What are the most common drugs used?
 output_df_2 <- output_df[,c("Drug")]
@@ -233,6 +233,10 @@ html <- tags$html(
 
 writeLines(as.character(html), summary_file)
 close(summary_file)
+
+found_drugs <- unique(output_df[,c("Drug")])
+db_drugs <- unique(data_drugs$drug)
+print(paste("Not applied drugs from DB: ", found_drugs[which(!(found_drugs %in% db_drugs))]))
 
 ################################################################################
 
