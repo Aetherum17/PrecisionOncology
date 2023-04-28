@@ -194,6 +194,14 @@ names(output_df_2_table)[1] <- "No Drug Found"
 output_df_2 <- as.data.frame(output_df_2_table)
 output_df_2$Percent <- round(output_df_2$Freq/sum(output_df_2$Freq)*100, 2)
 colnames(output_df_2) <- c("Drug", "Number of Patients", "Number of Patients (%)")
+# Graph
+ggplot(output_df_2, aes(x = Drug, y = `Number of Patients`, fill = Drug)) +
+  geom_bar(stat = "identity") +
+  labs(x = "Drug", y = "Number of Patients") +
+  ggtitle("Number of Patients, who can by Treated with each Drug") + 
+  scale_y_continuous(breaks = seq(0, max(output_df_2$`Number of Patients`), by = 50)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1), panel.spacing.x = unit(15, "cm"))+
+  theme(legend.position = "null")
 
 ### What are the most common targets used?
 output_df_3 <- output_df[,c("Target")]
@@ -202,14 +210,30 @@ names(output_df_3_table)[1] <- "No Target Found"
 output_df_3 <- as.data.frame(output_df_3_table)
 output_df_3$Percent <- round(output_df_3$Freq/sum(output_df_3$Freq)*100, 2)
 colnames(output_df_3) <- c("Target", "Number of Patients", "Number of Patients (%)")
+# Graph
+ggplot(output_df_3, aes(x = Target, y = `Number of Patients`, fill = Target)) +
+  geom_bar(stat = "identity") +
+  labs(x = "Target", y = "Number of Patients") +
+  ggtitle("Number of Patients with each Target used for Treatment") + 
+  scale_y_continuous(breaks = seq(0, max(output_df_3$`Number of Patients`), by = 50)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1), panel.spacing.x = unit(15, "cm"))+
+  theme(legend.position = "null")
 
 ### What are the most frequent mutations in the samples?
 output_df_4 <- data_df[,c("Hugo_Symbol")]
 output_df_4_table <- sort(table(output_df_4), decreasing = TRUE)
 output_df_4 <- as.data.frame(output_df_4_table)
 output_df_4$Percent <- round(output_df_4$Freq/sum(output_df_4$Freq)*100, 2)
-output_df_4 <- output_df_4[output_df_4$Freq>4,]
+output_df_4 <- output_df_4[output_df_4$Freq>9,]
 colnames(output_df_4) <- c("Mutated Gene", "Frequency", "In Number of Samples (%)")
+# Graph
+ggplot(output_df_4, aes(x = `Mutated Gene`, y = Frequency, fill = `Mutated Gene`)) +
+  geom_bar(stat = "identity") +
+  labs(x = "Mutated Gene", y = "Number of Patients") +
+  ggtitle("Number of Patients with the Most Frequently Mutated Genes") + 
+  scale_y_continuous(breaks = seq(0, max(output_df_4$Frequency), by = 10)) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1), panel.spacing.x = unit(15, "cm"))+
+  theme(legend.position = "null")
 
 ################################################################################
 

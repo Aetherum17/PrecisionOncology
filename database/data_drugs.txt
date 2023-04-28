@@ -1,75 +1,217 @@
 drug,target
-Cyclophosphamide + Veliparib,ATM
-ABT-199,BCL2
-Bortezomib + Alvocidib,CCND1
-Flavopiridol,CCND1
-Flavopiridol + Fludarabine + Rituximab,CCND1
-Lenalidomide,IRF4
-Ibrutinib,BTK
-itacitinib,JAK1
-venetoclax,BCL-2
-rituximab,CD16a
-Ofatumumab,CD20
-Obinutuzumab,CD20
-Y90-ibritumomab,CD20
-Brentuximab vedotin,CD30
-axicabtagene ciloleucel,CD19
 Acalabrutinib,BTK
-Idelalisib,PI3K
-nivolumab,PD-1
-TASELISIB,PIK3CA
-IDELALISIB,PIK3CA
-BUPARLISIB,PIK3CA
-SONOLISIB,PIK3CA
-PILARALISIB,PIK3CA
-VS-5584,PIK3CA
-COPANLISIB,PIK3CA
-PF-04691502,PIK3CA
-APITOLISIB,PIK3CA
-FIMEPINOSTAT,PIK3CA
-DUVELISIB,PIK3CD
-VS-5584,MTOR
-DACTOLISIB,MTOR
-TEMSIROLIMUS,MTOR
-temsirolimus + rituximab + DHAP,MTOR
-PIMECROLIMUS,MTOR
-EVEROLIMUS,MTOR
-SIROLIMUS,MTOR
-AZD-8055,MTOR
-ROTENONE,MTOR
-BORTEZOMIB,NOTCH1
-RG-4733,NOTCH1
-NIROGACESTAT,NOTCH1
-EVEROLIMUS,NOTCH1
-METHOTREXATE,NOTCH1
-PREDNISOLONE,NOTCH1
-MERCAPTOPURINE,NOTCH1
-BRONTICTUZUMAB,NOTCH1
-HYDROCORTISONE,NOTCH1
-TEMOZOLOMIDE,NOTCH1
-PACLITAXEL,NOTCH1
-DEXAMETHASONE,NOTCH1
-DOCETAXEL,NOTCH1
-ASPARAGINASE,NOTCH1
-RIBOCICLIB,NOTCH1
-WNT-974,NOTCH1
-DOCETAXEL,FBXW7
-SIROLIMUS,FBXW7
-VORINOSTAT,FBXW7
-AR-42,FBXW7
-REGORAFENIB,FBXW7
-TEMSIROLIMUS,FBXW7
-ENTINOSTAT,FBXW7
-BELINOSTAT,FBXW7
-ALPELISIB,SGK1
-Akt/protein kinase B signaling inhibitor-2,SGK1
-BMS936564/MDX1338,C1013
-BMS936564/MDX1338,CXCR4
-Lenalidomide,MYD88
-Dasanitib-BTKV/PI3KS,CD79B
-Ibrutinib,KMT2D
 Acalabrutinib,KMT2D
-idelalisib,KMT2D
-zanabrutinib,BTK
-Tazemetostat,EZH2
+Akt/protein kinase B signaling inhibitor-2,SGK1
+ALPELISIB,PIK3CA
+APITOLISIB,PIK3CA
+axicabtagene ciloleucel,CD19
+Azacitidine,DNMT1
+Azacitidine,DNMT3A
+Azacitidine,FLT3
+Azacitidine,TAGLN
+Azacitidine,ASXL1
+Azacitidine,IDH1
+Azacitidine,AFP
+Azacitidine,CD247
+Azacitidine,GGT1
+Azacitidine,IL11
+Azacitidine,PLAU
+Azacitidine,MYC
+Azacitidine,TET2
+Azacitidine,MGMT
+Azacitidine,TRIT1
+Azacitidine,GATA2
+Azacitidine,LIF
+Azacitidine,GSTP1
+Azacitidine,ABL1
+Azacitidine,TG
+AZD-8055,MTOR
+BELINOSTAT,HDACI
+BMS936564/MDX1338,C1013G
+BMS936564/MDX1338,CXCR4
+Bortezomib,NFKB
+BUPARLISIB,PIK3CA
+Clindamycin,VDR
+COPANLISIB,PIK3CA
+Dacinostat,CEACAM20
+Dacinostat,FMO2
+Dacinostat,GPR179
+Dacinostat,GRIPAP1
+Dacinostat,HAT1
+Dasanitib-BTKV/PI3KS,CD79B
+DUVELISIB,PIK3CD
+Enzastaurin + ibrutinib,NOTCH1
+EVEROLIMUS,MTOR
+FIMEPINOSTAT,PIK3CA
 Ibrutinib,BTK
+ibrutinib,MYD88
+Ibrutinib,KMT2D
+Idelalisib,PI3K
+IDELALISIB,PIK3CA
+idelalisib,KMT2D
+Ionomycin,NR4A1
+Ionomycin,PLAU
+Ionomycin,PIK3CG
+Ionomycin,CXCL8
+Ionomycin,NFE2L2
+Ionomycin,CAMK2B
+Ionomycin,CD5
+Ionomycin,BDNF
+Ionomycin,TGM2
+itacitinib,JAK1
+Lenalidomide,IRF4
+Lenalidomide,MYD88
+lenalidomide,NFKB
+METHOTREXATE,NOTCH1
+Metyrapone,CYP11B1
+Metyrapone,AGTR1
+Metyrapone,NR1I2
+Monobenzone,TYR
+Mycophenolic acid,IL18
+Mycophenolic acid,IMPDH2
+Mycophenolic acid,TP53
+Mycophenolic acid,CCND1
+Mycophenolic acid,UGT1A10
+Mycophenolic acid,IMPDH1
+Mycophenolic acid,BIRC5
+Mycophenolic acid,FAS
+Mycophenolic acid,TYMP
+Mycophenolic acid,DALRD3
+Mycophenolic acid,MIR425
+Mycophenolic acid,PIK3CG
+Mycophenolic acid,PLA2G1B
+Mycophenolic acid,CD44
+Mycophenolic acid,HPRT1
+Mycophenolic acid,NRG1
+Mycophenolic acid,CSF2
+Mycophenolic acid,MIR191
+Mycophenolic acid,CD28
+Naproxen,PTGS1
+Naproxen,PTGS2
+Naproxen,CPT2
+Naproxen,ROS1
+Naproxen,FES
+Naproxen,MCHR1
+Naproxen,ALK
+Naproxen,SAA1
+Naproxen,PLAT
+Naproxen,CYP2C9
+Naproxen,CYP1A2
+Naproxen,ALB
+Naproxen,CXCL8
+Obinutuzumab,CD20
+Ofatumumab,CD20
+PACLITAXEL,NOTCH1
+Paclitaxel,TUBB
+Paclitaxel,TUBB2B
+Paclitaxel,TUBB1
+Paclitaxel,BCL2
+Paclitaxel,NR1I2
+Paclitaxel,TUBA4A
+Paclitaxel,TUBB8
+Paclitaxel,TUBA1A
+Paclitaxel,TUBB4B
+Paclitaxel,TUBB3
+Paclitaxel,TUBA1B
+Paclitaxel,TUBA3E
+Paclitaxel,TUBA1C
+Paclitaxel,TUBB6
+Paclitaxel,TUBA3D
+Paclitaxel,TUBB2A
+Paclitaxel,MMP2
+Paclitaxel,CASP3
+Paclitaxel,E2F1
+Paclitaxel,GSTT1
+Paclitaxel,SYK
+Paclitaxel,CYP1B1
+Paclitaxel,ATM
+Paclitaxel,CDKN1A
+Paclitaxel,BRAF
+Paclitaxel,DSCAM
+Paclitaxel,SMAD4
+Paclitaxel,IL2RA
+Paclitaxel,PDGFRA
+Paclitaxel,MAPT
+Paclitaxel,MET
+Paclitaxel,AURKA
+Paclitaxel,EGFR
+Paclitaxel,EIF4E2
+Paclitaxel,BRCA2
+Paclitaxel,PTEN
+Paclitaxel,FCGR2A
+Paclitaxel,EIF4EBP1
+Paclitaxel,ABCC3
+Paclitaxel,MYB
+Paclitaxel,NAT2
+Paclitaxel,CYP3A4
+Paclitaxel,PDCD4
+Paclitaxel,CDK2
+Paclitaxel,GSTP1
+Paclitaxel,BDNF
+Paclitaxel,ERBB2
+Paclitaxel,SPARC
+Paclitaxel,PGP
+Paclitaxel,STMN1
+Paclitaxel,ABCB1
+Paclitaxel,MTHFR
+Paclitaxel,CYP3A5
+Paclitaxel,DDIT3
+Paclitaxel,MAP4
+Paclitaxel,CXCL8
+Paclitaxel,CDKN2A
+Paclitaxel,EDNRB
+Paclitaxel,BRCA1
+Paclitaxel,FASN
+Paclitaxel,AKT1
+Paclitaxel,TLE3
+Paclitaxel,NRG1
+Paclitaxel,KRAS
+Paclitaxel,TP53
+Paclitaxel,MAP2
+Paclitaxel,JAK2
+Paclitaxel,SRC
+Paclitaxel,NFE2
+Paclitaxel,TOP2A
+Paclitaxel,PIK3CA
+Paclitaxel,BIRC5
+Paclitaxel,ETS2
+Paclitaxel,FOS
+Paclitaxel,LIF
+Paclitaxel,ABCC10
+Paclitaxel,PIK3CG
+Paclitaxel,NOTCH1
+Paclitaxel,TIGD1
+Paclitaxel,RRM1
+Paclitaxel,ERCC2
+panobinostat,MYD88
+PF-04691502,PIK3CA
+PILARALISIB,PIK3CA
+Puromycin,RPL19
+Puromycin,RSL24D1
+Puromycin,RPL15
+Puromycin,AGTR2
+Puromycin,TAC1
+Puromycin,RPL37
+Puromycin,RPL23 A
+Puromycin,RPL26L1
+Puromycin,TP53
+Puromycin,PTH
+Puromycin,RPL11
+Puromycin,RPL13 A
+Puromycin,RPL23
+Puromycin,RPL10 L
+Puromycin,FCGR3B
+Puromycin,HSPA4
+Puromycin,CD34
+Puromycin,RPL8
+Puromycin,FCGR3A
+Puromycin,RPL3
+rituximab,CD20
+SONOLISIB,PIK3CA
+TASELISIB,PIK3CA
+TEMSIROLIMUS,MTOR
+Temsirolimus + rituximab + DHAP,MTOR
+venetoclax,BCL2
+VS-5584,PIK3CA
+VS-5584,MTOR
+Y90-ibritumomab,CD20
