@@ -7,7 +7,7 @@ To accomplish this task, 4 databases with patient data were combined:
 * Mutational and structural analysis of diffuse large B-cell lymphoma using whole-genome sequencing (Ryan D Morin et al., 2013) [Link](https://pubmed.ncbi.nlm.nih.gov/23699601/)
 * Discovery and prioritization of somatic mutations in diffuse large B-cell lymphoma (DLBCL) by whole-exome sequencing (Jens G Lohr et al., 2012) [Link](https://pubmed.ncbi.nlm.nih.gov/22343534/)
 
-The datasets themselves were downloaded from cBioPortal for Cancer Genomics [Link](https://www.cbioportal.org/datasets)
+The datasets themselves were downloaded from cBioPortal for Cancer Genomics. [Link](https://www.cbioportal.org/datasets)
 
 # Project Results
 
