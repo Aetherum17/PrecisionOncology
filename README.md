@@ -1,5 +1,5 @@
 # Precision Oncology Project
-This repository contains code for the project, which aims to match patients with B-cell Lymhoma with drugs, that can potentially be used as a cure, based on data on patient's mutations. 
+This repository contains code for the project, which aims to match patients with B-cell lymphoma with drugs that can potentially be used as a cure based on patient mutation data.
 
 To accomplish this task, 4 databases with patient data were combined: 
 * Molecular subtypes of diffuse large B cell lymphoma are associated with distinct pathogenic mechanisms and outcomes (Bjoern Chapuy et al., 2018) [Link](https://pubmed.ncbi.nlm.nih.gov/29713087/)
@@ -12,5 +12,8 @@ The datasets themselves were downloaded from cBioPortal for Cancer Genomics [Lin
 # Project Results
 
 ![Patients_Vs_Drugs](https://github.com/Aetherum17/PrecisionOncology/assets/46795020/5f25fc69-d5a3-42bd-bc1a-ed650094d021)
+![Patients_Vs_most_frequent_mutations](https://github.com/Aetherum17/PrecisionOncology/assets/46795020/88f27365-97e3-4500-bd21-fa1deffd1393)
+![patients_vs_targeted_mutations](https://github.com/Aetherum17/PrecisionOncology/assets/46795020/9cbc062a-8f26-4452-912f-fede19010eed)
+![PatientsNumbers](https://github.com/Aetherum17/PrecisionOncology/assets/46795020/913f3f0f-a2d8-48ae-95dc-bb20194ffdba)
 
 
