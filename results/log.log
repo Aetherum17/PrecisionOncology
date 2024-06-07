@@ -1,20 +1,3 @@
 # OK: dlbc_broad_2012 - Data Mutations Exists
 # OK: Hugo_Symbol and Tumor_Sample_Barcode Columns exist.
 # OK: dlbc_broad_2012 - Clinical Sample File Exists
-# OK: SAMPLE_ID and CANCER_TYPE_DETAILED Columns exist.
-# OK: dlbc_tcga_pan_can_atlas_2018 - Data Mutations Exists
-# OK: Hugo_Symbol and Tumor_Sample_Barcode Columns exist.
-# OK: dlbc_tcga_pan_can_atlas_2018 - Clinical Sample File Exists
-# OK: SAMPLE_ID and CANCER_TYPE_DETAILED Columns exist.
-# OK: dlbcl_dfci_2018 - Data Mutations Exists
-# OK: Hugo_Symbol and Tumor_Sample_Barcode Columns exist.
-# OK: dlbcl_dfci_2018 - Clinical Sample File Exists
-# OK: SAMPLE_ID and CANCER_TYPE_DETAILED Columns exist.
-# OK: dlbcl_duke_2017 - Data Mutations Exists
-# OK: Hugo_Symbol and Tumor_Sample_Barcode Columns exist.
-# OK: dlbcl_duke_2017 - Clinical Sample File Exists
-# OK: SAMPLE_ID and CANCER_TYPE_DETAILED Columns exist.
-# OK: nhl_bcgsc_2013 - Data Mutations Exists
-# OK: Hugo_Symbol and Tumor_Sample_Barcode Columns exist.
-# OK: nhl_bcgsc_2013 - Clinical Sample File Exists
-# OK: SAMPLE_ID and CANCER_TYPE_DETAILED Columns exist.
